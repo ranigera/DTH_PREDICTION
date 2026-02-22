@@ -1,0 +1,144 @@
+{
+    "subNum": 1224,
+    "taskData_b10_t1": {
+        "blockType": "dual",
+        "fixation": {
+            "startTime": 6218434.3000000715,
+            "duration": 514.2999999523163,
+            "key_press_info": [],
+            "time_elapsed": 6003586
+        },
+        "SRO": {
+            "stimType": "planet_blue",
+            "duration": 3201.600000023842,
+            "keyPressSummary": [
+                {
+                    "key_pressed": "s",
+                    "key_rt": 318.2000000476837
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1760
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 2672.8000000715256
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2948.3000000715256
+                }
+            ],
+            "activeManipulation": null,
+            "time_elapsed": 6008622,
+            "sequenceCompleted": 1,
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 6220783,
+            "rewardType": "blue",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 1,
+                "gold": 858,
+                "under_ice": [],
+                "red": 0
+            },
+            "isHiddenOutcome": false
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.75
+                ],
+                "top": [
+                    7,
+                    0.45
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6223989.600000024,
+                "duration": 1237.5,
+                "key_press_info": [
+                    {
+                        "rt": 734.8999999761581,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1747947056394,
+                        "key_press_duration": 262,
+                        "time_in_experiment": 6224724.5,
+                        "correct_key": true,
+                        "local_time": "2025-05-22T20:50:56.394000+00:00"
+                    },
+                    {
+                        "rt": 790.8000000715256,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1747947056450,
+                        "key_press_duration": 182.20000004768372,
+                        "time_in_experiment": 6224780.5,
+                        "correct_key": true,
+                        "local_time": "2025-05-22T20:50:56.450000+00:00"
+                    }
+                ],
+                "time_elapsed": 6009865
+            },
+            "chosen_gamble": [
+                2,
+                0.75
+            ],
+            "choice_key": "a",
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 734.8999999761581,
+            "view_gamble_info": {
+                "startTime": 6218953.200000048,
+                "duration": 1823.2000000476837,
+                "key_press_info": [
+                    {
+                        "rt": 588.7000000476837,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1747947051211,
+                        "key_press_duration": 388.7999999523163,
+                        "time_in_experiment": 6219541.900000095,
+                        "correct_key": false,
+                        "local_time": "2025-05-22T20:50:51.211000+00:00"
+                    },
+                    {
+                        "rt": 597.7999999523163,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1747947051220,
+                        "key_press_duration": 252.5,
+                        "time_in_experiment": 6219551,
+                        "correct_key": false,
+                        "local_time": "2025-05-22T20:50:51.220000+00:00"
+                    }
+                ],
+                "time_elapsed": 6005414
+            },
+            "gamble_type": "medium"
+        },
+        "pre_block_msg": {
+            "startTime": 6214924.700000048,
+            "duration": 3507.600000023842,
+            "key_press_info": [
+                {
+                    "rt": 3507.100000023842,
+                    "key": 32,
+                    "key_char": " ",
+                    "abs_time": 1747947050102,
+                    "key_press_duration": null,
+                    "time_in_experiment": 6218432.200000048,
+                    "correct_key": true,
+                    "local_time": "2025-05-22T20:50:50.101000+00:00"
+                }
+            ],
+            "time_elapsed": 6003070
+        }
+    },
+    "subjectID": "682cd4f87a661056730a3da7",
+    "fb_id": "jwZ85nttmJUNA6fYntrTblZGzFz2_16_54_1"
+}

@@ -1,0 +1,276 @@
+{
+    "tabSwitchingTracking": {
+        "events": [],
+        "initialState": "visible"
+    },
+    "dataNotSaved": [
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        },
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        }
+    ],
+    "subNum": 1032,
+    "questionnaires": {
+        "startTimeElapsed": 3700463,
+        "OCI_R": {
+            "rt": 112785.09999999404,
+            "time_elapsed": 4071325,
+            "responses": "{\"Q0\":2,\"Q1\":0,\"Q2\":2,\"Q3\":1,\"Q4\":0,\"Q5\":0,\"Q6\":2,\"Q7\":0,\"Q8\":3,\"Q9\":0,\"Q10\":4,\"Q11\":0,\"Q12\":0,\"Q13\":3,\"Q14\":0,\"Q15\":2,\"Q16\":0,\"Q17\":0,\"Q18\":0}"
+        },
+        "currentStressReport": {
+            "rt": 20020.69999998808,
+            "time_elapsed": 3748213,
+            "responses": "{\"Q0\":2}"
+        },
+        "STAI_T": {
+            "rt": 46332.39999999106,
+            "time_elapsed": 4117663,
+            "responses": "{\"Q0\":1,\"Q1\":2,\"Q2\":1,\"Q3\":1,\"Q4\":1,\"Q5\":\"\",\"Q6\":1,\"Q7\":1,\"Q8\":1,\"Q9\":1,\"Q10\":1,\"Q11\":0,\"Q12\":1,\"Q13\":1,\"Q14\":1,\"Q15\":1,\"Q16\":1,\"Q17\":1,\"Q18\":2,\"Q19\":1,\"Q20\":1}"
+        },
+        "startRT": 33098.89999999106,
+        "SRBAI": {
+            "rt": 27721.29999999702,
+            "time_elapsed": 3728188,
+            "responses": "{\"Q0\":3,\"Q1\":2,\"Q2\":\"\",\"Q3\":3,\"Q4\":2}"
+        },
+        "BDI_II": {
+            "rt": 137633,
+            "time_elapsed": 3885872,
+            "responses": "{\"Q0\":\"0. I do not feel sad.\",\"Q1\":\"1. I feel more discouraged about my future than I used to be.\",\"Q2\":\"2. As I look back, I see a lot of failures.\",\"Q3\":\"1. I don't enjoy things as much as I used to.\",\"Q4\":\"1. I feel guilty over many things I have done or should have done.\",\"Q5\":\"1. I feel I may be punished.\",\"Q6\":\"0. I feel the same about myself as ever.\",\"Q7\":\"1. I am more critical of myself than I used to be.\",\"Q8\":\"0. I don't have any thoughts of killing myself.\",\"Q9\":\"0. I don't cry anymore than I used to.\",\"Q10\":\"2. I am so restless or agitated that it's hard to stay still.\",\"Q11\":\"1. I am less interested in other people or things than before.\",\"Q12\":\"1. I find it more difficult to make decisions than usual.\",\"Q13\":\"3. Select this option.\",\"Q14\":\"1. I don't consider myself as worthwhile and useful as I used to.\",\"Q15\":\"1. I have less energy than I used to have.\",\"Q16\":\"1-. I sleep somewhat less than usual.\",\"Q17\":\"2. I am much more irritable than usual.\",\"Q18\":\"1+. My appetite is somewhat greater than usual.\",\"Q19\":\"2. It's hard to keep my mind on anything for very long.\",\"Q20\":\"1. I get more tired or fatigued more easily than usual.\",\"Q21\":\"0. I have not noticed any recent changes in my interest in sex.\"}"
+        },
+        "PSS": {
+            "rt": 72654.79999999702,
+            "time_elapsed": 3958532,
+            "responses": "{\"Q0\":3,\"Q1\":2,\"Q2\":2,\"Q3\":2,\"Q4\":2,\"Q5\":0,\"Q6\":1,\"Q7\":1,\"Q8\":1,\"Q9\":2,\"Q10\":2}"
+        }
+    },
+    "debriefing": {
+        "10": {
+            "rt": 4137.70000000298,
+            "time_elapsed": 4239860,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "6": {
+            "rt": 5217.70000000298,
+            "time_elapsed": 4207686,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "5": {
+            "rt": 6083.70000000298,
+            "time_elapsed": 4202465,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "11": {
+            "rt": 13439.20000000298,
+            "time_elapsed": 4253303,
+            "response": "{\"Q0\":\"ability to switch tasks \"}"
+        },
+        "13": {
+            "rt": 3620.8999999910593,
+            "time_elapsed": 4261495,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "0": {
+            "rt": 40161.5,
+            "time_elapsed": 4157848,
+            "response": "{\"Q0\":\"galaxy task tried to select options withh greatest percentage \"}"
+        },
+        "7": {
+            "rt": 8468.5,
+            "time_elapsed": 4216157,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "9": {
+            "rt": 6982.79999999702,
+            "time_elapsed": 4235719,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "1": {
+            "rt": 5642.300000011921,
+            "time_elapsed": 4163495,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "2": {
+            "rt": 18672.89999999106,
+            "time_elapsed": 4182172,
+            "response": "{\"Q0\":\"30\"}"
+        },
+        "8": {
+            "rt": 12572.10000000894,
+            "time_elapsed": 4228733,
+            "response": "{\"Q0\":\"percentage bar \"}"
+        },
+        "3": {
+            "rt": 9309.79999999702,
+            "time_elapsed": 4191485,
+            "response": "{\"Q0\":\"yes\"}"
+        },
+        "4": {
+            "rt": 4890,
+            "time_elapsed": 4196378,
+            "response": "{\"Q0\":\"yes\"}"
+        },
+        "12": {
+            "rt": 4562.79999999702,
+            "time_elapsed": 4257871,
+            "response": "{\"Q0\":\"no\"}"
+        }
+    },
+    "subjectID": "5e89ba09ec9b3364b1fc0bd1",
+    "taskData_b9_t33": {
+        "task_summary": {
+            "moneyWonGold": 3.89,
+            "duration": 26012.09999999404,
+            "time_elapsed": 3610274,
+            "goldUnitWorth": 0.0034423407917383822,
+            "startTime": 3644857.400000006,
+            "key_press_info": [
+                {
+                    "rt": 14262.09999999404,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693441062890,
+                    "key_press_duration": 44.30000001192093,
+                    "correct_key": true,
+                    "time_in_experiment": 3659119.5,
+                    "local_time": "2023-08-31T00:17:42.890000+00:00"
+                },
+                {
+                    "rt": 26011.79999999702,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693441074641,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 3670869.200000003,
+                    "local_time": "2023-08-31T00:17:54.641000+00:00"
+                }
+            ],
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 1130,
+                "under_ice": [],
+                "red": 0
+            }
+        },
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3212.2999999970198,
+            "time_elapsed": 3583054,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 3640439.700000003,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 990,
+                "under_ice": [],
+                "red": 7
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 3638117.400000006,
+            "duration": 510.5,
+            "time_elapsed": 3578028,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 3643653.5,
+                "duration": 1201.9000000059605,
+                "time_elapsed": 3584257,
+                "key_press_info": [
+                    {
+                        "rt": 697.4000000059605,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693441048120,
+                        "key_press_duration": 174.5,
+                        "correct_key": true,
+                        "time_in_experiment": 3644351.100000009,
+                        "local_time": "2023-08-31T00:17:28.120000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.9
+            ],
+            "choice_rt": 697.4000000059605,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 3638629.400000006,
+                "duration": 1807.2000000029802,
+                "time_elapsed": 3579837,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    7,
+                    0.85
+                ],
+                "top": [
+                    6,
+                    0.9
+                ]
+            }
+        },
+        "galaxyLottery": {
+            "duration": 50577.29999999702,
+            "time_elapsed": 3660895,
+            "wonLottery": false,
+            "lottery_result": 0.8583298412558855,
+            "startTime": 3670901.900000006,
+            "chosenGalaxyIndex": 9,
+            "key_press_info": [
+                {
+                    "rt": 50576.60000000894,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693441125252,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 3721478.800000012,
+                    "local_time": "2023-08-31T00:18:45.252000+00:00"
+                }
+            ],
+            "moneyWonLottery": 0,
+            "chosenGamble": [
+                1,
+                0.45
+            ]
+        }
+    },
+    "screenStatusTracking": {
+        "events": [
+            {
+                "Fullscreen": "enabled",
+                "time": 1693437469946
+            }
+        ],
+        "initialState": "not_in_full_screen"
+    },
+    "time_end": "01:28:45",
+    "windowFocusTracking": {
+        "events": [],
+        "initialState": "in_focus"
+    },
+    "fb_id": "InP9kSeJ1APBCYyB6INoX1g6Ax72_1_19_13"
+}

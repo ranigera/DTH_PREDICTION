@@ -1,0 +1,96 @@
+{
+    "system_info": {
+        "browser": "Google Chrome",
+        "general": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+    },
+    "window_info": {
+        "height": 651,
+        "width": 1366
+    },
+    "subNum": 1177,
+    "conditionComponents": {
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_blue": {
+            "stim_condition": "still_valued",
+            "seq": "ljk"
+        },
+        "planet_red": {
+            "stim_condition": "devalued",
+            "seq": "jlk"
+        }
+    },
+    "manipulation_map_by_block": {
+        "16": {
+            "stim": "red",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "group": "more_extensive",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "subjectID": "633fadee5fc02d5c5e7c8eec",
+    "experiment_start_time": {
+        "date": "2023-10-24T01:13:16.327000+00:00",
+        "date_str": "10/24/2023",
+        "abs_time": 1698109996327,
+        "time_str": "1:13:16 AM"
+    },
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "gold_unit_worth": 0.001670843776106934,
+    "task_version": "DTH_V2.0",
+    "demographic": {
+        "end": {
+            "rt": 2623,
+            "time_elapsed": 46329
+        },
+        "start": {
+            "rt": 7485.099999997765,
+            "time_elapsed": 14115
+        },
+        "age": {
+            "rt": 4048.89999999851,
+            "response": "{\"Q0\":\"35\"}"
+        },
+        "education": {
+            "rt": 4190,
+            "response": "{\"Q0\":\" Master's Degree\"}"
+        },
+        "ethnicity": {
+            "rt": 12766,
+            "response": "{\"Q0\":\" Not Hispanic or Latino\"}"
+        },
+        "race": {
+            "rt": 4255.400000002235,
+            "response": "{\"Q0\":[\"White\"]}"
+        },
+        "gender": {
+            "rt": 4196,
+            "response": "{\"Q0\":\" Male\"}"
+        }
+    },
+    "fb_id": "5Yuo41fX16VkaD7pleanM8EDHoH3"
+}

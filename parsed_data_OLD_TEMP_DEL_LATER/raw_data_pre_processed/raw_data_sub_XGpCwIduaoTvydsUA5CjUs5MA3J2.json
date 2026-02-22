@@ -1,0 +1,63 @@
+{
+    "system_info": {
+        "browser": "Google Chrome",
+        "general": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36"
+    },
+    "group": "extensive",
+    "subNum": 1412,
+    "conditionComponents": {
+        "planet_blue": {
+            "stim_condition": "devalued",
+            "seq": "ljk"
+        },
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_red": {
+            "stim_condition": "still_valued",
+            "seq": "jlk"
+        }
+    },
+    "manipulation_map_by_block": {
+        "12": {
+            "stim": "blue",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "window_info": {
+        "height": 633,
+        "width": 1366
+    },
+    "subjectID": "6545400d6d15a71561d3d2e9",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "gold_unit_worth": 0.00215633423180593,
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "experiment_start_time": {
+        "date": "2025-06-03T01:37:58.538000+00:00",
+        "date_str": "6/2/2025",
+        "abs_time": 1748914678538,
+        "time_str": "6:37:58 PM"
+    },
+    "task_version": "DTH_V2.0",
+    "fb_id": "XGpCwIduaoTvydsUA5CjUs5MA3J2"
+}

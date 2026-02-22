@@ -1,0 +1,12 @@
+{
+	"EAT26": {
+		"Description": "Eating Attitude test a 26 Items",
+		"TermURL": ""
+	},
+	"scoring_for_Questions_1_until_25": {
+		"Description": "always = 3; usually = 2; often = 1; sometimes = 0; rarely = 1; never = 0"
+	},
+	"scoring_for_question_26": {
+		"Description": "always = 0; usually = 0; often = 0; sometimes = 1; rarely = 2; never = 3"
+	}
+}

@@ -1,0 +1,123 @@
+{
+    "taskData_b9_t33": {
+        "blockType": "dual",
+        "fixation": {
+            "startTime": 6196813.700000048,
+            "duration": 500.60000002384186,
+            "key_press_info": [],
+            "time_elapsed": 5981952
+        },
+        "SRO": {
+            "stimType": "planet_yellow",
+            "duration": 3217.100000023842,
+            "keyPressSummary": [
+                {
+                    "key_pressed": "k",
+                    "key_rt": 802.2000000476837
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1121
+                }
+            ],
+            "activeManipulation": null,
+            "time_elapsed": 5986988,
+            "sequenceCompleted": 0,
+            "total_cost": -2,
+            "isWin": null,
+            "startTime": 6199133,
+            "rewardType": "rock",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 5,
+                "gold": 681,
+                "under_ice": [],
+                "red": 4
+            },
+            "isHiddenOutcome": false
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.85
+                ],
+                "top": [
+                    3,
+                    0.4
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6202355.100000024,
+                "duration": 1217,
+                "key_press_info": [
+                    {
+                        "rt": 709.2999999523163,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1747947034734,
+                        "key_press_duration": 259.3000000715256,
+                        "time_in_experiment": 6203064.5,
+                        "correct_key": true,
+                        "local_time": "2025-05-22T20:50:34.734000+00:00"
+                    }
+                ],
+                "time_elapsed": 5988210
+            },
+            "chosen_gamble": [
+                2,
+                0.85
+            ],
+            "choice_key": "s",
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 709.2999999523163,
+            "view_gamble_info": {
+                "startTime": 6197318.8000000715,
+                "duration": 1806.5,
+                "key_press_info": [
+                    {
+                        "rt": 735.8999999761581,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1747947029724,
+                        "key_press_duration": 346.2999999523163,
+                        "time_in_experiment": 6198054.700000048,
+                        "correct_key": false,
+                        "local_time": "2025-05-22T20:50:29.724000+00:00"
+                    }
+                ],
+                "time_elapsed": 5983763
+            },
+            "gamble_type": "hard"
+        },
+        "block_summary": {
+            "startTime": 6203579.3000000715,
+            "duration": 11336.299999952316,
+            "key_press_info": [
+                {
+                    "rt": 11335.5,
+                    "key": 32,
+                    "key_char": " ",
+                    "abs_time": 1747947046584,
+                    "key_press_duration": null,
+                    "time_in_experiment": 6214915,
+                    "correct_key": true,
+                    "local_time": "2025-05-22T20:50:46.584000+00:00"
+                }
+            ],
+            "time_elapsed": 5999553,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 0,
+                "gold": 861,
+                "under_ice": [],
+                "red": 0
+            }
+        }
+    },
+    "subNum": 1224,
+    "subjectID": "682cd4f87a661056730a3da7",
+    "fb_id": "jwZ85nttmJUNA6fYntrTblZGzFz2_16_53_59"
+}

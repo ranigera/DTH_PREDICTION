@@ -1,0 +1,88 @@
+{
+    "system_info": {
+        "browser": "Google Chrome",
+        "general": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36"
+    },
+    "window_info": {
+        "height": 923,
+        "width": 1920
+    },
+    "subNum": 1029,
+    "conditionComponents": {
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_blue": {
+            "stim_condition": "still_valued",
+            "seq": "ljk"
+        },
+        "planet_red": {
+            "stim_condition": "devalued",
+            "seq": "jlk"
+        }
+    },
+    "manipulation_map_by_block": {
+        "8": {
+            "stim": "red",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "group": "short",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "subjectID": "63e5eb956eab1f2740ac6289",
+    "experiment_start_time": {
+        "date": "2023-08-29T21:40:49.187000+00:00",
+        "date_str": "29/08/2023",
+        "abs_time": 1693345249187,
+        "time_str": "22:40:49"
+    },
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "gold_unit_worth": 0.0034423407917383822,
+    "task_version": "DTH_V2.0",
+    "demographic": {
+        "end": {
+            "rt": 1850.7999999970198,
+            "time_elapsed": 62526
+        },
+        "start": {
+            "rt": 36862.10000000149,
+            "time_elapsed": 38969
+        },
+        "age": {
+            "rt": 2961.10000000149,
+            "response": "{\"Q0\":\"29\"}"
+        },
+        "education": {
+            "rt": 4780,
+            "response": "{\"Q0\":\" Some College\"}"
+        },
+        "ethnicity": {
+            "rt": 8562,
+            "response": "{\"Q0\":\" Not Hispanic or Latino\"}"
+        },
+        "race": {
+            "rt": 2393.60000000149,
+            "response": "{\"Q0\":[\"White\"]}"
+        },
+        "gender": {
+            "rt": 2997,
+            "response": "{\"Q0\":\" Male\"}"
+        }
+    },
+    "fb_id": "dvOfMYkXxlget7rHOrKOeSV5Dun1"
+}

@@ -1,0 +1,18 @@
+{
+	"BIS11": {
+		"Description": "Barratt Impulsiveness Scale",
+		"TermURL": "http:--www.impulsivity.org--measurement-bis11"
+	},
+	"BIS_attentional": {
+		"Description": "attention and cognitive instability: 5, 9(inverted), 11, 20(inverted), 28, 6, 24, 26"
+	},
+	"BIS_motor": {
+		"Description": "motor and perseverance; 2, 3, 4, 17, 19, 22, 25, 16, 21, 23, 30(inverted)"
+	},
+	"BIS_nonplanning": {
+		"Description": "self control and cognitive complexity: 1(inverted), 7(inverted), 8(inverted), 12(inverted), 13(inverted), 14,10(inverted), 15(inverted), 18, 27, 29(inverted)"
+	},
+	"BIS_total": {
+		"Description": "total score: 5, 9(inverted), 11, 20(inverted), 28, 6, 24, 26,2, 3, 4, 17, 19, 22, 25,16, 21, 23, 30(inverted),1(inverted), 7(inverted), 8(inverted), 12(inverted), 13(inverted), 14,10(inverted), 15(inverted), 18, 27, 29(inverted)"
+	}
+}

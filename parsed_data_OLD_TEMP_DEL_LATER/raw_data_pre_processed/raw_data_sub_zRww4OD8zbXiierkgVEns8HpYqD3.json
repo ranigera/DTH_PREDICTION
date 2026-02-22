@@ -1,0 +1,93 @@
+{
+    "system_info": {
+        "browser": "Mozilla Firefox",
+        "general": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:138.0) Gecko/20100101 Firefox/138.0"
+    },
+    "group": "extensive",
+    "subNum": 1349,
+    "conditionComponents": {
+        "planet_blue": {
+            "stim_condition": "still_valued",
+            "seq": "ljk"
+        },
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_red": {
+            "stim_condition": "devalued",
+            "seq": "jlk"
+        }
+    },
+    "manipulation_map_by_block": {
+        "12": {
+            "stim": "red",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "window_info": {
+        "height": 655,
+        "width": 1292
+    },
+    "subjectID": "66187caf2a94f9051c85c431",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "gold_unit_worth": 0.00215633423180593,
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "experiment_start_time": {
+        "date": "2025-05-30T01:31:59.878000+00:00",
+        "date_str": "5/29/2025",
+        "abs_time": 1748568719878,
+        "time_str": "8:31:59 PM"
+    },
+    "task_version": "DTH_V2.0",
+    "demographic": {
+        "end": {
+            "rt": 2606,
+            "time_elapsed": 43554
+        },
+        "start": {
+            "rt": 17640,
+            "time_elapsed": 22781
+        },
+        "age": {
+            "rt": 5590,
+            "response": "{\"Q0\":\"35\"}"
+        },
+        "education": {
+            "rt": 3595,
+            "response": "{\"Q0\":\" High School (Graduate or Equivalent)\"}"
+        },
+        "ethnicity": {
+            "rt": 2911,
+            "response": "{\"Q0\":\" Not Hispanic or Latino\"}"
+        },
+        "race": {
+            "rt": 3023,
+            "response": "{\"Q0\":[\"White\"]}"
+        },
+        "gender": {
+            "rt": 2696,
+            "response": "{\"Q0\":\" Male\"}"
+        }
+    },
+    "fb_id": "zRww4OD8zbXiierkgVEns8HpYqD3"
+}

@@ -1,0 +1,96 @@
+{
+    "system_info": {
+        "browser": "Google Chrome",
+        "general": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36"
+    },
+    "window_info": {
+        "height": 643,
+        "width": 1366
+    },
+    "subNum": 1129,
+    "conditionComponents": {
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_blue": {
+            "stim_condition": "still_valued",
+            "seq": "ljk"
+        },
+        "planet_red": {
+            "stim_condition": "devalued",
+            "seq": "jlk"
+        }
+    },
+    "manipulation_map_by_block": {
+        "16": {
+            "stim": "red",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "group": "more_extensive",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "subjectID": "613ab0960ff3efd039adf1e0",
+    "experiment_start_time": {
+        "date": "2023-10-16T21:44:05.169000+00:00",
+        "date_str": "16/10/2023",
+        "abs_time": 1697492645169,
+        "time_str": "15:44:05"
+    },
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "gold_unit_worth": 0.001670843776106934,
+    "task_version": "DTH_V2.0",
+    "demographic": {
+        "end": {
+            "rt": 2006.800000011921,
+            "time_elapsed": 30414
+        },
+        "start": {
+            "rt": 3110.5,
+            "time_elapsed": 8769
+        },
+        "age": {
+            "rt": 3421,
+            "response": "{\"Q0\":\"22\"}"
+        },
+        "education": {
+            "rt": 2918,
+            "response": "{\"Q0\":\" Bachelor's Degree\"}"
+        },
+        "ethnicity": {
+            "rt": 2138,
+            "response": "{\"Q0\":\" Hispanic or Latino\"}"
+        },
+        "race": {
+            "rt": 9101.5,
+            "response": "{\"Q0\":[\"More than one race\"]}"
+        },
+        "gender": {
+            "rt": 2019,
+            "response": "{\"Q0\":\" Male\"}"
+        }
+    },
+    "fb_id": "nZcuJWlkaATVqfCzYsLOU2J30613"
+}

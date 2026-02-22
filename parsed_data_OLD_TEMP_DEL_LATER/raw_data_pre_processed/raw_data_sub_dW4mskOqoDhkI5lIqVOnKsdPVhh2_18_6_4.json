@@ -1,0 +1,52 @@
+{
+    "taskData_b1_t10": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6385517.599999994,
+            "duration": 507,
+            "key_press_info": [],
+            "time_elapsed": 6266580
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.75
+                ],
+                "top": [
+                    6,
+                    0.4
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6386025.599999994,
+                "duration": 605.1999999880791,
+                "key_press_info": [
+                    {
+                        "rt": 92.40000000596046,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037932151,
+                        "key_press_duration": 214.89999997615814,
+                        "time_in_experiment": 6386118,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:32.151000+00:00"
+                    }
+                ],
+                "time_elapsed": 6267186
+            },
+            "chosen_gamble": [
+                2,
+                0.75
+            ],
+            "choice_key": "a",
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 92.40000000596046,
+            "gamble_type": "medium"
+        }
+    },
+    "subNum": 1239,
+    "subjectID": "682624bb25a1418cfdfa1990",
+    "fb_id": "dW4mskOqoDhkI5lIqVOnKsdPVhh2_18_6_4"
+}

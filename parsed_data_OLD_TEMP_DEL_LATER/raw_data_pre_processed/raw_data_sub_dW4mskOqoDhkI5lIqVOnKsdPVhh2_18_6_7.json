@@ -1,0 +1,61 @@
+{
+    "taskData_b2_t1": {
+        "blockType": "SRO_only",
+        "fixation": {
+            "startTime": 6395219.099999994,
+            "duration": 519,
+            "key_press_info": [],
+            "time_elapsed": 6276293
+        },
+        "SRO": {
+            "stimType": "planet_red",
+            "duration": 3205.199999988079,
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1836.2999999821186
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2584
+                }
+            ],
+            "activeManipulation": null,
+            "time_elapsed": 6279500,
+            "sequenceCompleted": 0,
+            "total_cost": -2,
+            "isWin": null,
+            "startTime": 6395739.599999994,
+            "rewardType": "red",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 0,
+                "gold": -2,
+                "under_ice": [],
+                "red": 0
+            },
+            "isHiddenOutcome": false
+        },
+        "pre_block_msg": {
+            "startTime": 6387997.5,
+            "duration": 7221,
+            "key_press_info": [
+                {
+                    "rt": 7220.899999976158,
+                    "key": 32,
+                    "key_char": " ",
+                    "abs_time": 1748037941252,
+                    "key_press_duration": null,
+                    "time_in_experiment": 6395218.399999976,
+                    "correct_key": true,
+                    "local_time": "2025-05-23T22:05:41.252000+00:00"
+                }
+            ],
+            "time_elapsed": 6275774
+        }
+    },
+    "subNum": 1239,
+    "subjectID": "682624bb25a1418cfdfa1990",
+    "fb_id": "dW4mskOqoDhkI5lIqVOnKsdPVhh2_18_6_7"
+}

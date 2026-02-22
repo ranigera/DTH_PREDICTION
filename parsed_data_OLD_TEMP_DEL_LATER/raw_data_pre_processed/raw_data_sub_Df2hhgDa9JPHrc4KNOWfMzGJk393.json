@@ -1,0 +1,96 @@
+{
+    "system_info": {
+        "browser": "Google Chrome",
+        "general": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36"
+    },
+    "window_info": {
+        "height": 635,
+        "width": 1366
+    },
+    "subNum": 1191,
+    "conditionComponents": {
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_blue": {
+            "stim_condition": "still_valued",
+            "seq": "jlk"
+        },
+        "planet_red": {
+            "stim_condition": "devalued",
+            "seq": "ljk"
+        }
+    },
+    "manipulation_map_by_block": {
+        "16": {
+            "stim": "red",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "group": "more_extensive",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "subjectID": "60e2ebb6ad1d5ee0e515a7c5",
+    "experiment_start_time": {
+        "date": "2023-10-25T21:42:33.931000+00:00",
+        "date_str": "10/25/2023",
+        "abs_time": 1698270153931,
+        "time_str": "11:42:33 PM"
+    },
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "gold_unit_worth": 0.001670843776106934,
+    "task_version": "DTH_V2.0",
+    "demographic": {
+        "end": {
+            "rt": 2040.8999999985099,
+            "time_elapsed": 34014
+        },
+        "start": {
+            "rt": 3862.2000000029802,
+            "time_elapsed": 8329
+        },
+        "age": {
+            "rt": 3209.7000000029802,
+            "response": "{\"Q0\":\"22\"}"
+        },
+        "education": {
+            "rt": 9777,
+            "response": "{\"Q0\":\" Some College\"}"
+        },
+        "ethnicity": {
+            "rt": 4497,
+            "response": "{\"Q0\":\" Not Hispanic or Latino\"}"
+        },
+        "race": {
+            "rt": 3410.7999999970198,
+            "response": "{\"Q0\":[\"Black or African-American\"]}"
+        },
+        "gender": {
+            "rt": 2695,
+            "response": "{\"Q0\":\" Female\"}"
+        }
+    },
+    "fb_id": "Df2hhgDa9JPHrc4KNOWfMzGJk393"
+}

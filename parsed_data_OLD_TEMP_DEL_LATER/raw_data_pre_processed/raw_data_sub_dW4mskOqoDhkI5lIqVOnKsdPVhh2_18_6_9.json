@@ -1,0 +1,71 @@
+{
+    "subNum": 1239,
+    "taskData_b2_t2": {
+        "blockType": "SRO_only",
+        "fixation": {
+            "startTime": 6398947.399999976,
+            "duration": 515.5,
+            "key_press_info": [
+                {
+                    "rt": 121.90000000596046,
+                    "key": 74,
+                    "key_char": "j",
+                    "abs_time": 1748037945103,
+                    "key_press_duration": 227,
+                    "time_in_experiment": 6399069.299999982,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:05:45.103000+00:00"
+                }
+            ],
+            "time_elapsed": 6280018
+        },
+        "SRO": {
+            "stimType": "planet_yellow",
+            "duration": 3206.9000000059605,
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 619.8000000119209
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 640.4000000059605
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2401
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 2950.2000000178814
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 3146.5999999940395
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 3206.7000000178814
+                }
+            ],
+            "activeManipulation": null,
+            "time_elapsed": 6283227,
+            "sequenceCompleted": 0,
+            "total_cost": -4,
+            "isWin": null,
+            "startTime": 6399464.299999982,
+            "rewardType": "rock",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 0,
+                "gold": -6,
+                "under_ice": [],
+                "red": 0
+            },
+            "isHiddenOutcome": false
+        }
+    },
+    "subjectID": "682624bb25a1418cfdfa1990",
+    "fb_id": "dW4mskOqoDhkI5lIqVOnKsdPVhh2_18_6_9"
+}

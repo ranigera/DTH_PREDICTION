@@ -1,0 +1,75 @@
+{
+    "tabSwitchingTracking": {
+        "events": [],
+        "initialState": "visible"
+    },
+    "dataNotSaved": [
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        },
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        }
+    ],
+    "subNum": 1126,
+    "debriefing": {
+        "12": {
+            "rt": 25139.20000000298,
+            "time_elapsed": 4552990,
+            "response": "{\"Q0\":\"It was super smooth\"}"
+        },
+        "13": {
+            "rt": 109342.20000000298,
+            "time_elapsed": 4662334,
+            "response": "{\"Q0\":\"It was really good study. I've got like 500 submissions on prolific, and I think this is top2 of all. First places is the study about detecting cancer on radiophotos, but still. The game was interesting, everything was smooth and I really didn't feel like taking part in research, and more like playing a game!\"}"
+        }
+    },
+    "time_end": "21:35:51",
+    "debriefing.11.time_elapsed": 4527849,
+    "subjectID": "607052bd55f1e0f4b4e3a99d",
+    "debriefing.11.response": "{\"Q0\":\"I've had quite a lot of experiments that were checking my choice with 2 probabilities of win. I think this study was 2 in 1, but I can't tell what exactly were you measuring.\"}",
+    "debriefing.11.rt": 101455,
+    "windowFocusTracking": {
+        "events": [
+            {
+                "WindowFocus": "lost",
+                "time": 1697480235384
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697480237327
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697480280865
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697481883050
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697481885913
+            }
+        ],
+        "initialState": "in_focus"
+    },
+    "screenStatusTracking": {
+        "events": [
+            {
+                "Fullscreen": "enabled",
+                "time": 1697480291777
+            },
+            {
+                "Fullscreen": "disabled",
+                "time": 1697481460694
+            }
+        ],
+        "initialState": "not_in_full_screen"
+    },
+    "fb_id": "A4Uhy6zCkAfPQgURLSZNQnQlqtI2_21_33_37"
+}

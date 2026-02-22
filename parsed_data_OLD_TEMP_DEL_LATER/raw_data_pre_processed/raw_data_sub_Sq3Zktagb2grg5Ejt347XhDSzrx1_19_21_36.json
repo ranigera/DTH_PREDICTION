@@ -1,0 +1,79 @@
+{
+    "subNum": 1088,
+    "taskData_b11_t17": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3491,
+            "time_elapsed": 3856515,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 3899731.800000012,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 4,
+                "ice": 0,
+                "gold": 1279,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 3897129.800000012,
+            "duration": 682.5,
+            "time_elapsed": 3851104,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 3903228.5,
+                "duration": 1058.9000000059605,
+                "time_elapsed": 3857579,
+                "key_press_info": [
+                    {
+                        "rt": 538.7000000178814,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1694197238258,
+                        "key_press_duration": 256.69999998807907,
+                        "correct_key": true,
+                        "time_in_experiment": 3903767.300000012,
+                        "local_time": "2023-09-08T18:20:38.258000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.7
+            ],
+            "choice_rt": 538.7000000178814,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 3897821.800000012,
+                "duration": 1895.0999999940395,
+                "time_elapsed": 3853009,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.7
+                ],
+                "top": [
+                    6,
+                    0.35
+                ]
+            }
+        }
+    },
+    "subjectID": "64063cb9ad66c9a964814b0e",
+    "fb_id": "Sq3Zktagb2grg5Ejt347XhDSzrx1_19_21_36"
+}

@@ -1,0 +1,488 @@
+{
+    "tabSwitchingTracking": {
+        "events": [
+            {
+                "time": 1697664757489,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697664764978,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697664849149,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697664849681,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697664865084,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697664884981,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697664886213,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697664897800,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697664905032,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697665028951,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697665029892,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697665047191,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697665069853,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697665074902,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1697665310986,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1697665311582,
+                "tabVisibility": "visible"
+            }
+        ],
+        "initialState": "visible"
+    },
+    "dataNotSaved": [
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        },
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        }
+    ],
+    "subNum": 1152,
+    "questionnaires": {
+        "BDI_II": {
+            "rt": 187361,
+            "time_elapsed": 3493011,
+            "responses": "{\"Q0\":\"1. I feel sad much of the time.\",\"Q1\":\"2. I do not expect things to work out for me.\",\"Q2\":\"2. As I look back, I see a lot of failures.\",\"Q3\":\"2. I get very little pleasure from the things I used to enjoy.\",\"Q4\":\"1. I feel guilty over many things I have done or should have done.\",\"Q5\":\"3. I feel like I am being punished.\",\"Q6\":\"3. I dislike myself.\",\"Q7\":\"3. I blame myself for everything bad that happens.\",\"Q8\":\"2. I would like to kill myself.\",\"Q9\":\"0. I don't cry anymore than I used to.\",\"Q10\":\"1. I feel more restless or wound up than usual.\",\"Q11\":\"3. It's hard to get interested in anything.\",\"Q12\":\"2. I have much greater difficulty in making decisions than I used to.\",\"Q13\":\"3. Select this option.\",\"Q14\":\"2. I feel more worthless as compared to other people.\",\"Q15\":\"2. I don't have enough energy to do very much.\",\"Q16\":\"3+. I sleep most of the day.\",\"Q17\":\"1. I am more irritable than usual.\",\"Q18\":\"0. I have not experienced any change in my appetite.\",\"Q19\":\"3. I find I can't concentrate on anything.\",\"Q20\":\"1. I get more tired or fatigued more easily than usual.\",\"Q21\":\"1. I am less interested in sex than I used to be.\"}"
+        },
+        "OCI_R": {
+            "rt": 122396,
+            "time_elapsed": 3615409,
+            "responses": "{\"Q0\":1,\"Q1\":3,\"Q2\":2,\"Q3\":0,\"Q4\":1,\"Q5\":1,\"Q6\":2,\"Q7\":4,\"Q8\":0,\"Q9\":0,\"Q10\":4,\"Q11\":2,\"Q12\":4,\"Q13\":3,\"Q14\":1,\"Q15\":1,\"Q16\":0,\"Q17\":4,\"Q18\":3}"
+        },
+        "SRBAI": {
+            "rt": 33658,
+            "time_elapsed": 3221052,
+            "responses": "{\"Q0\":5,\"Q1\":0,\"Q2\":\"\",\"Q3\":2,\"Q4\":0}"
+        },
+        "currentStressReport": {
+            "rt": 6567,
+            "time_elapsed": 3227620,
+            "responses": "{\"Q0\":1}"
+        },
+        "PSS": {
+            "rt": 78012,
+            "time_elapsed": 3305635,
+            "responses": "{\"Q0\":3,\"Q1\":4,\"Q2\":3,\"Q3\":2,\"Q4\":1,\"Q5\":0,\"Q6\":0,\"Q7\":2,\"Q8\":2,\"Q9\":3,\"Q10\":2}"
+        },
+        "STAI_T": {
+            "rt": 107559,
+            "time_elapsed": 3722971,
+            "responses": "{\"Q0\":1,\"Q1\":2,\"Q2\":0,\"Q3\":3,\"Q4\":3,\"Q5\":\"\",\"Q6\":1,\"Q7\":1,\"Q8\":1,\"Q9\":2,\"Q10\":0,\"Q11\":3,\"Q12\":2,\"Q13\":1,\"Q14\":1,\"Q15\":1,\"Q16\":1,\"Q17\":3,\"Q18\":1,\"Q19\":0,\"Q20\":1}"
+        }
+    },
+    "debriefing": {
+        "10": {
+            "rt": 18834,
+            "time_elapsed": 3916061,
+            "response": "{\"Q0\":\"the instructions were clear, but it was a bit slow in terms of telling us the \\\"game\\\"\"}"
+        },
+        "6": {
+            "rt": 9981,
+            "time_elapsed": 3827921,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "5": {
+            "rt": 3937,
+            "time_elapsed": 3817936,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "11": {
+            "rt": 22692,
+            "time_elapsed": 3938757,
+            "response": "{\"Q0\":\"it felt like one attention check type study\"}"
+        },
+        "13": {
+            "rt": 9559,
+            "time_elapsed": 3961937,
+            "response": "{\"Q0\":\"it was a good game, that's for sure!\"}"
+        },
+        "0": {
+            "rt": 29373,
+            "time_elapsed": 3752348,
+            "response": "{\"Q0\":\"no, I did not used any strategy\"}"
+        },
+        "7": {
+            "rt": 7265,
+            "time_elapsed": 3835189,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "9": {
+            "rt": 49242,
+            "time_elapsed": 3897225,
+            "response": "{\"Q0\":\"selecting galaxies\\n\\nI tried to focus on getting the higher chances, but sadly I was a bit greedy sometimes\"}"
+        },
+        "1": {
+            "rt": 5127,
+            "time_elapsed": 3757476,
+            "response": "{\"Q0\":\"no\"}"
+        },
+        "2": {
+            "rt": 43004,
+            "time_elapsed": 3800484,
+            "response": "{\"Q0\":\"in the first block it was 70% to find one,\\nSecond block felt like 60-80% to find one,\\nand that last \\\"block\\\" felt like 30%\"}"
+        },
+        "8": {
+            "rt": 12787,
+            "time_elapsed": 3847980,
+            "response": "{\"Q0\":\"higher chances to win money\"}"
+        },
+        "3": {
+            "rt": 9795,
+            "time_elapsed": 3810283,
+            "response": "{\"Q0\":\"yes\"}"
+        },
+        "4": {
+            "rt": 3712,
+            "time_elapsed": 3813998,
+            "response": "{\"Q0\":\"yes\"}"
+        },
+        "12": {
+            "rt": 13615,
+            "time_elapsed": 3952375,
+            "response": "{\"Q0\":\"sometimes the page was slow, but other than that, everything was fine!\"}"
+        }
+    },
+    "subjectID": "605bb95e25fb0eb3edfe7c73",
+    "taskData_b9_t33": {
+        "task_summary": {
+            "moneyWonGold": 3.05,
+            "duration": 23879,
+            "time_elapsed": 3157514,
+            "goldUnitWorth": 0.0034423407917383822,
+            "startTime": 3237752,
+            "key_press_info": [
+                {
+                    "rt": 11631,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1697668004756,
+                    "key_press_duration": 88,
+                    "correct_key": true,
+                    "time_in_experiment": 3249383,
+                    "local_time": "2023-10-18T22:26:44.756000+00:00"
+                },
+                {
+                    "rt": 23878,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1697668017002,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 3261630,
+                    "local_time": "2023-10-18T22:26:57.002000+00:00"
+                }
+            ],
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 885,
+                "under_ice": [],
+                "red": 0
+            }
+        },
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3210,
+            "time_elapsed": 3132568,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 3233474,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 745,
+                "under_ice": [],
+                "red": 7
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 3231147,
+            "duration": 508,
+            "time_elapsed": 3127538,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 3236686,
+                "duration": 1064,
+                "time_elapsed": 3133633,
+                "key_press_info": [
+                    {
+                        "rt": 552,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1697667992610,
+                        "key_press_duration": 119,
+                        "correct_key": true,
+                        "time_in_experiment": 3237238,
+                        "local_time": "2023-10-18T22:26:32.610000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.75
+            ],
+            "choice_rt": 552,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 3231659,
+                "duration": 1809,
+                "time_elapsed": 3129352,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.25
+                ],
+                "top": [
+                    1,
+                    0.75
+                ]
+            }
+        },
+        "galaxyLottery": {
+            "duration": 17214,
+            "time_elapsed": 3174740,
+            "wonLottery": false,
+            "lottery_result": 0.9557054832504903,
+            "startTime": 3261640,
+            "chosenGalaxyIndex": 152,
+            "key_press_info": [
+                {
+                    "rt": 17214,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1697668034226,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 3278854,
+                    "local_time": "2023-10-18T22:27:14.226000+00:00"
+                }
+            ],
+            "moneyWonLottery": 0,
+            "chosenGamble": [
+                3,
+                0.4
+            ]
+        }
+    },
+    "screenStatusTracking": {
+        "events": [
+            {
+                "Fullscreen": "enabled",
+                "time": 1697665048570
+            },
+            {
+                "Fullscreen": "disabled",
+                "time": 1697665068517
+            }
+        ],
+        "initialState": "not_in_full_screen"
+    },
+    "time_end": "12:40:21 AM",
+    "windowFocusTracking": {
+        "events": [
+            {
+                "WindowFocus": "lost",
+                "time": 1697664757188
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664764982
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664770970
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664775140
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664775875
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664788403
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664801376
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664843308
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664848849
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664849681
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664862821
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664863619
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664864282
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664884981
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664885910
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664897800
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664898868
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697664902691
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697664904728
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665028949
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665029584
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665047191
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665069541
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665074900
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665085743
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665113161
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665116556
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665125141
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665172597
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665174393
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665195818
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665197683
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665223054
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665223721
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1697665310686
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1697665311581
+            }
+        ],
+        "initialState": "in_focus"
+    },
+    "fb_id": "Oi6jcxXnhUhhqW8ulD9XTF8gGQC3_0_27_47"
+}

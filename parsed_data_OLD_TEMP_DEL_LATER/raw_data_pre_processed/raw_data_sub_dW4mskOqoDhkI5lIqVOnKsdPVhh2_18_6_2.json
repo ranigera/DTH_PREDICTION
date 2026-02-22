@@ -1,0 +1,62 @@
+{
+    "taskData_b1_t8": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6382655.5,
+            "duration": 500.39999997615814,
+            "key_press_info": [],
+            "time_elapsed": 6263711
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.4
+                ],
+                "top": [
+                    1,
+                    0.75
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6383156.899999976,
+                "duration": 977.7000000178814,
+                "key_press_info": [
+                    {
+                        "rt": 472.40000000596046,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1748037929663,
+                        "key_press_duration": 284.40000000596046,
+                        "time_in_experiment": 6383629.299999982,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:29.663000+00:00"
+                    },
+                    {
+                        "rt": 495.5,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037929686,
+                        "key_press_duration": 274.80000001192093,
+                        "time_in_experiment": 6383652.399999976,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:29.686000+00:00"
+                    }
+                ],
+                "time_elapsed": 6264690
+            },
+            "chosen_gamble": [
+                6,
+                0.4
+            ],
+            "choice_key": "s",
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 472.40000000596046,
+            "gamble_type": "easy"
+        }
+    },
+    "subNum": 1239,
+    "subjectID": "682624bb25a1418cfdfa1990",
+    "fb_id": "dW4mskOqoDhkI5lIqVOnKsdPVhh2_18_6_2"
+}

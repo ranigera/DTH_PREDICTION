@@ -1,0 +1,77 @@
+{
+    "subNum": 1004,
+    "maintask_summary.time_elapsed": 4092939,
+    "subjectID": "5b8c8e7d0c740e00019d55c3",
+    "maintask_summary.bonus.SRO_money_won": 3.43,
+    "maintask_summary.bonus.total_money_won": 5.43,
+    "maintask_summary.quick_data_QA.Galaxy_choice_proportion": 0.8770053475935828,
+    "screenStatusTracking": {
+        "events": [
+            {
+                "Fullscreen": "enabled",
+                "time": 1681932658077
+            },
+            {
+                "Fullscreen": "disabled",
+                "time": 1681932702585
+            }
+        ],
+        "initialState": "not_in_full_screen"
+    },
+    "windowFocusTracking": {
+        "events": [
+            {
+                "WindowFocus": "lost",
+                "time": 1681932647820
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1681932649714
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1681932706977
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1681932708493
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1681933061453
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1681933101428
+            }
+        ],
+        "initialState": "in_focus"
+    },
+    "tabSwitchingTracking": {
+        "events": [
+            {
+                "time": 1681932647853,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1681932649707,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1681932706982,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1681932708490,
+                "tabVisibility": "visible"
+            }
+        ],
+        "initialState": "visible"
+    },
+    "maintask_summary.end_time": "2023-04-19T20:38:57.033000+00:00",
+    "dataNotSaved": [],
+    "maintask_summary.quick_data_QA.SRO_sequences_completed_inNoValuePlanet_proportion": 0,
+    "maintask_summary.bonus.galaxy_money_won": 2,
+    "maintask_summary.quick_data_QA.SRO_sequences_completed_proportion": 0.5410628019323671,
+    "fb_id": "Amkfd5GGZAWUqbw448NlHBjwPnl2_14_38_57"
+}

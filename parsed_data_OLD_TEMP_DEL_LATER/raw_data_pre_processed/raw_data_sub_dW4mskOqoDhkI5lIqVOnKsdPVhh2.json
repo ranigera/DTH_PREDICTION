@@ -1,0 +1,539 @@
+{
+    "taskData_b1_t7": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6381351.599999994,
+            "duration": 511,
+            "key_press_info": [],
+            "time_elapsed": 6262418
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    7,
+                    0.05
+                ],
+                "top": [
+                    6,
+                    0.5
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6381863.799999982,
+                "duration": 789.9000000059605,
+                "key_press_info": [
+                    {
+                        "rt": 288,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1748037928185,
+                        "key_press_duration": 252.40000000596046,
+                        "time_in_experiment": 6382151.899999976,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:28.185000+00:00"
+                    }
+                ],
+                "time_elapsed": 6263209
+            },
+            "chosen_gamble": [
+                7,
+                0.05
+            ],
+            "choice_key": "s",
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 288,
+            "gamble_type": "easy"
+        }
+    },
+    "manipulation_map_by_block": {
+        "12": {
+            "stim": "red",
+            "manipulation": "devaluation",
+            "condition": "devalued"
+        }
+    },
+    "subNum": 1239,
+    "taskData_b1_t3": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6375816.099999994,
+            "duration": 508,
+            "key_press_info": [],
+            "time_elapsed": 6256880
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.55
+                ],
+                "top": [
+                    3,
+                    0.4
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6376325.199999988,
+                "duration": 920.4000000059605,
+                "key_press_info": [
+                    {
+                        "rt": 408.90000000596046,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037922767,
+                        "key_press_duration": 268.7999999821186,
+                        "time_in_experiment": 6376734.099999994,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:22.767000+00:00"
+                    }
+                ],
+                "time_elapsed": 6257801
+            },
+            "chosen_gamble": [
+                3,
+                0.4
+            ],
+            "choice_key": "a",
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_rt": 408.90000000596046,
+            "gamble_type": "sanityCheck"
+        }
+    },
+    "window_info": {
+        "height": 641,
+        "width": 1366
+    },
+    "taskData_b1_t4": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6377247.5,
+            "duration": 511.39999997615814,
+            "key_press_info": [],
+            "time_elapsed": 6258314
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.75
+                ],
+                "top": [
+                    4,
+                    0.55
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6377759.899999976,
+                "duration": 899.9000000059605,
+                "key_press_info": [
+                    {
+                        "rt": 398.89999997615814,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1748037924192,
+                        "key_press_duration": 263.60000002384186,
+                        "time_in_experiment": 6378158.899999976,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:24.192000+00:00"
+                    }
+                ],
+                "time_elapsed": 6259215
+            },
+            "chosen_gamble": [
+                4,
+                0.55
+            ],
+            "choice_key": "s",
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_rt": 398.89999997615814,
+            "gamble_type": "medium"
+        }
+    },
+    "subjectID": "682624bb25a1418cfdfa1990",
+    "blockTypesArray": [
+        "gambles_only",
+        "SRO_only",
+        "SRO_only",
+        "dual",
+        "gambles_only",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual",
+        "dual"
+    ],
+    "taskData_b1_t6": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6380026.099999994,
+            "duration": 501,
+            "key_press_info": [],
+            "time_elapsed": 6261082
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    4,
+                    0.3
+                ],
+                "top": [
+                    7,
+                    0.15
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6380528,
+                "duration": 821.6999999880791,
+                "key_press_info": [
+                    {
+                        "rt": 315.2999999821186,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037926877,
+                        "key_press_duration": 239,
+                        "time_in_experiment": 6380843.299999982,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:26.877000+00:00"
+                    }
+                ],
+                "time_elapsed": 6261905
+            },
+            "chosen_gamble": [
+                7,
+                0.15
+            ],
+            "choice_key": "a",
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_rt": 315.2999999821186,
+            "gamble_type": "hard"
+        }
+    },
+    "taskData_b1_t1": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6371169.399999976,
+            "duration": 510.40000000596046,
+            "key_press_info": [],
+            "time_elapsed": 6252235
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.55
+                ],
+                "top": [
+                    5,
+                    0.4
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6371681,
+                "duration": 2652.0999999940395,
+                "key_press_info": [
+                    {
+                        "rt": 2144.7999999821186,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037919859,
+                        "key_press_duration": 249.30000001192093,
+                        "time_in_experiment": 6373825.899999976,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:19.859000+00:00"
+                    },
+                    {
+                        "rt": 2165.199999988079,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1748037919880,
+                        "key_press_duration": 211.5,
+                        "time_in_experiment": 6373846.299999982,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:19.880000+00:00"
+                    }
+                ],
+                "time_elapsed": 6254889
+            },
+            "chosen_gamble": [
+                5,
+                0.4
+            ],
+            "choice_key": "a",
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_rt": 2144.7999999821186,
+            "gamble_type": "easy"
+        },
+        "pre_block_msg": {
+            "startTime": 6304769.599999994,
+            "duration": 66398.69999998808,
+            "key_press_info": [
+                {
+                    "rt": 19198.79999998212,
+                    "key": 32,
+                    "key_char": " ",
+                    "abs_time": 1748037870002,
+                    "key_press_duration": 191,
+                    "time_in_experiment": 6323968.399999976,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:04:30.002000+00:00"
+                },
+                {
+                    "rt": 28445.69999998808,
+                    "key": 32,
+                    "key_char": " ",
+                    "abs_time": 1748037879249,
+                    "key_press_duration": 233.7000000178814,
+                    "time_in_experiment": 6333215.299999982,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:04:39.249000+00:00"
+                },
+                {
+                    "rt": 35771.90000000596,
+                    "key": 75,
+                    "key_char": "k",
+                    "abs_time": 1748037886575,
+                    "key_press_duration": 212.09999999403954,
+                    "time_in_experiment": 6340541.5,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:04:46.575000+00:00"
+                },
+                {
+                    "rt": 37533.69999998808,
+                    "key": 83,
+                    "key_char": "s",
+                    "abs_time": 1748037888337,
+                    "key_press_duration": 216.40000000596046,
+                    "time_in_experiment": 6342303.299999982,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:04:48.337000+00:00"
+                },
+                {
+                    "rt": 45254.5,
+                    "key": 54,
+                    "key_char": "6",
+                    "abs_time": 1748037896057,
+                    "key_press_duration": 229.2999999821186,
+                    "time_in_experiment": 6350024.099999994,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:04:56.057000+00:00"
+                },
+                {
+                    "rt": 47103.90000000596,
+                    "key": 54,
+                    "key_char": "6",
+                    "abs_time": 1748037897907,
+                    "key_press_duration": 300.19999998807907,
+                    "time_in_experiment": 6351873.5,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:04:57.907000+00:00"
+                },
+                {
+                    "rt": 49198.40000000596,
+                    "key": 54,
+                    "key_char": "6",
+                    "abs_time": 1748037900001,
+                    "key_press_duration": 233.7999999821186,
+                    "time_in_experiment": 6353968.099999994,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:05:00.001000+00:00"
+                },
+                {
+                    "rt": 66240.40000000596,
+                    "key": 54,
+                    "key_char": "6",
+                    "abs_time": 1748037917043,
+                    "key_press_duration": null,
+                    "time_in_experiment": 6371010,
+                    "correct_key": false,
+                    "local_time": "2025-05-23T22:05:17.043000+00:00"
+                },
+                {
+                    "rt": 66398.59999999404,
+                    "key": 32,
+                    "key_char": " ",
+                    "abs_time": 1748037917201,
+                    "key_press_duration": null,
+                    "time_in_experiment": 6371168.199999988,
+                    "correct_key": true,
+                    "local_time": "2025-05-23T22:05:17.201000+00:00"
+                }
+            ],
+            "time_elapsed": 6251724
+        }
+    },
+    "taskData_b1_t2": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6374337.5,
+            "duration": 503.5,
+            "key_press_info": [],
+            "time_elapsed": 6255396
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.3
+                ],
+                "top": [
+                    1,
+                    0.7
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6374842,
+                "duration": 972.3999999761581,
+                "key_press_info": [
+                    {
+                        "rt": 466.59999999403954,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1748037921342,
+                        "key_press_duration": 273.19999998807907,
+                        "time_in_experiment": 6375308.599999994,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:21.342000+00:00"
+                    },
+                    {
+                        "rt": 515.6999999880791,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037921391,
+                        "key_press_duration": 174.7000000178814,
+                        "time_in_experiment": 6375357.799999982,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:21.391000+00:00"
+                    }
+                ],
+                "time_elapsed": 6256370
+            },
+            "chosen_gamble": [
+                1,
+                0.7
+            ],
+            "choice_key": "s",
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_rt": 466.59999999403954,
+            "gamble_type": "hard"
+        }
+    },
+    "taskData_b1_t5": {
+        "blockType": "gambles_only",
+        "fixation": {
+            "startTime": 6378662.799999982,
+            "duration": 528.7000000178814,
+            "key_press_info": [],
+            "time_elapsed": 6259747
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.1
+                ],
+                "top": [
+                    3,
+                    0.3
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 6379192.399999976,
+                "duration": 832,
+                "key_press_info": [
+                    {
+                        "rt": 319.90000000596046,
+                        "key": 65,
+                        "key_char": "a",
+                        "abs_time": 1748037925546,
+                        "key_press_duration": 261.59999999403954,
+                        "time_in_experiment": 6379512.299999982,
+                        "correct_key": true,
+                        "local_time": "2025-05-23T22:05:25.546000+00:00"
+                    }
+                ],
+                "time_elapsed": 6260580
+            },
+            "chosen_gamble": [
+                5,
+                0.1
+            ],
+            "choice_key": "a",
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 319.90000000596046,
+            "gamble_type": "medium"
+        }
+    },
+    "system_info": {
+        "browser": "Google Chrome",
+        "general": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36"
+    },
+    "group": "extensive",
+    "conditionComponents": {
+        "planet_blue": {
+            "stim_condition": "still_valued",
+            "seq": "jlk"
+        },
+        "planet_yellow": {
+            "stim_condition": null,
+            "seq": "kjl"
+        },
+        "planet_red": {
+            "stim_condition": "devalued",
+            "seq": "ljk"
+        }
+    },
+    "gold_unit_worth": 0.00215633423180593,
+    "consent": {
+        "no_box": false,
+        "yes_box": true
+    },
+    "experiment_start_time": {
+        "date": "2025-05-23T20:20:38.747000+00:00",
+        "date_str": "5/23/2025",
+        "abs_time": 1748031638747,
+        "time_str": "4:20:38 PM"
+    },
+    "task_version": "DTH_V2.0",
+    "demographic": {
+        "end": {
+            "rt": 43783.09999999404,
+            "time_elapsed": 142544
+        },
+        "start": {
+            "rt": 5995.700000017881,
+            "time_elapsed": 65023
+        },
+        "age": {
+            "rt": 5219.0999999940395,
+            "response": "{\"Q0\":\"32\"}"
+        },
+        "education": {
+            "rt": 6258,
+            "response": "{\"Q0\":\" Bachelor's Degree\"}"
+        },
+        "ethnicity": {
+            "rt": 10026,
+            "response": "{\"Q0\":\" Not Hispanic or Latino\"}"
+        },
+        "race": {
+            "rt": 7836.300000011921,
+            "response": "{\"Q0\":[\"White\"]}"
+        },
+        "gender": {
+            "rt": 4383,
+            "response": "{\"Q0\":\" Male\"}"
+        }
+    },
+    "fb_id": "dW4mskOqoDhkI5lIqVOnKsdPVhh2"
+}

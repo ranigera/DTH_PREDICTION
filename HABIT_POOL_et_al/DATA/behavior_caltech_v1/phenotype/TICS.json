@@ -1,0 +1,36 @@
+{
+	"TICS": {
+		"Description": "The Trier Inventory of Chronic Stress",
+		"TermURL": "Notes: 0 = never; 1 = rarely; 2 = sometimes; 3 = ofter; 4= very oftern"
+	},
+	"WOOV": {
+		"Description": "Work Overload: 01, 04, 17, 27, 38, 44, 50, 54"
+	},
+	"SOOV": {
+		"Description": "Social Overload; 07, 19, 28, 39, 49, 57"
+	},
+	"PREPE": {
+		"Description": "Pressure to Perform: 08, 12, 14, 22, 23, 30, 32, 40, 43"
+	},
+	"WODI": {
+		"Description": "Work Discontent: 05, 10, 13, 21, 37, 41, 48, 53"
+	},
+	"EXWO": {
+		"Description": "Excessive Demands at Work: 03, 20, 24, 35, 47, 55"
+	},
+	"LACK": {
+		"Description": "Lack of Social Recognition: 02, 18, 31, 46"
+	},
+	"SOTE": {
+		"Description": "Social Tensions: 06, 15, 26, 33, 45, 52"
+	},
+	"SOIS": {
+		"Description": "Social Isolation: 11, 29, 34, 42, 51, 56"
+	},
+	"WORY": {
+		"Description": "Chronic Worrying: 9, 16, 25, 36 "
+	},
+	"CSSS": {
+		"Description": "Chronic Stress Screening Scale: 09, 16, 18, 25, 31, 35, 36, 38, 44, 47, 54, 57 "
+	}
+}

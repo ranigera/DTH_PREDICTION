@@ -1,0 +1,3528 @@
+{
+    "subNum": 1026,
+    "questionnaires": {
+        "startTimeElapsed": 4538170,
+        "OCI_R": {
+            "rt": 66163,
+            "time_elapsed": 4658911,
+            "responses": "{\"Q0\":0,\"Q1\":2,\"Q2\":4,\"Q3\":3,\"Q4\":0,\"Q5\":1,\"Q6\":0,\"Q7\":2,\"Q8\":4,\"Q9\":0,\"Q10\":4,\"Q11\":2,\"Q12\":2,\"Q13\":0,\"Q14\":1,\"Q15\":4,\"Q16\":0,\"Q17\":2,\"Q18\":1}"
+        },
+        "currentStressReport": {
+            "rt": 4221,
+            "time_elapsed": 4592740,
+            "responses": "{\"Q0\":6}"
+        },
+        "STAI_T": {
+            "rt": 54999,
+            "time_elapsed": 4856663,
+            "responses": "{\"Q0\":2,\"Q1\":1,\"Q2\":3,\"Q3\":1,\"Q4\":0,\"Q5\":\"\",\"Q6\":1,\"Q7\":2,\"Q8\":0,\"Q9\":1,\"Q10\":2,\"Q11\":1,\"Q12\":0,\"Q13\":2,\"Q14\":3,\"Q15\":0,\"Q16\":2,\"Q17\":1,\"Q18\":1,\"Q19\":3,\"Q20\":0}"
+        },
+        "startRT": 5704,
+        "SRBAI": {
+            "rt": 50292,
+            "time_elapsed": 4588470,
+            "responses": "{\"Q0\":1,\"Q1\":1,\"Q2\":\"\",\"Q3\":1,\"Q4\":1}"
+        },
+        "BDI_II": {
+            "rt": 101271,
+            "time_elapsed": 4760256,
+            "responses": "{\"Q0\":\"0. I do not feel sad.\",\"Q1\":\"1. I feel more discouraged about my future than I used to be.\",\"Q2\":\"1. I have failed more than I should have.\",\"Q3\":\"0. I get as much pleasure as I ever did from the things I enjoy.\",\"Q4\":\"1. I feel guilty over many things I have done or should have done.\",\"Q5\":\"0. I don't feel I am being punished.\",\"Q6\":\"0. I feel the same about myself as ever.\",\"Q7\":\"1. I am more critical of myself than I used to be.\",\"Q8\":\"0. I don't have any thoughts of killing myself.\",\"Q9\":\"1. I cry more than I used to.\",\"Q10\":\"2. I am so restless or agitated that it's hard to stay still.\",\"Q11\":\"0. I have not lost interest in other people or activities.\",\"Q12\":\"0. I make decisions about as well as ever.\",\"Q13\":\"3. Select this option.\",\"Q14\":\"0. I do not feel I am worthless.\",\"Q15\":\"1. I have less energy than I used to have.\",\"Q16\":\"1+. I sleep somewhat more than usual.\",\"Q17\":\"0. I am no more irritable than usual.\",\"Q18\":\"0. I have not experienced any change in my appetite.\",\"Q19\":\"1. I can't concentrate as well as usual.\",\"Q20\":\"1. I get more tired or fatigued more easily than usual.\",\"Q21\":\"0. I have not noticed any recent changes in my interest in sex.\"}"
+        },
+        "PSS": {
+            "rt": 41391,
+            "time_elapsed": 4801653,
+            "responses": "{\"Q0\":2,\"Q1\":0,\"Q2\":2,\"Q3\":4,\"Q4\":3,\"Q5\":0,\"Q6\":0,\"Q7\":4,\"Q8\":3,\"Q9\":2,\"Q10\":0}"
+        }
+    },
+    "taskData_b9_t26": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3203,
+            "time_elapsed": 4438215,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5057450,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 825,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5055133,
+            "duration": 504,
+            "time_elapsed": 4433198,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 5060655,
+                "duration": 1149,
+                "time_elapsed": 4439365,
+                "key_press_info": [
+                    {
+                        "rt": 645,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349190870,
+                        "key_press_duration": 160,
+                        "correct_key": true,
+                        "time_in_experiment": 5061300,
+                        "local_time": "2023-08-29T22:46:30.870000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                4,
+                0.85
+            ],
+            "choice_rt": 645,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 5055639,
+                "duration": 1806,
+                "time_elapsed": 4435006,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.45
+                ],
+                "top": [
+                    4,
+                    0.85
+                ]
+            }
+        }
+    },
+    "taskData_b9_t27": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3215,
+            "time_elapsed": 4444906,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5064130,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 825,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5061809,
+            "duration": 504,
+            "time_elapsed": 4439874,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 5067347,
+                "duration": 1326,
+                "time_elapsed": 4446234,
+                "key_press_info": [
+                    {
+                        "rt": 816,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349197734,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5068164,
+                        "local_time": "2023-08-29T22:46:37.734000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.35
+            ],
+            "choice_rt": 816,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5062315,
+                "duration": 1812,
+                "time_elapsed": 4441688,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.35
+                ],
+                "top": [
+                    2,
+                    0.3
+                ]
+            }
+        }
+    },
+    "taskData_b9_t10": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3214,
+            "time_elapsed": 4329784,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4949009,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 840,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4946694,
+            "duration": 505,
+            "time_elapsed": 4324760,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4952225,
+                "duration": 1294,
+                "time_elapsed": 4331080,
+                "key_press_info": [
+                    {
+                        "rt": 787,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349082582,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4953012,
+                        "local_time": "2023-08-29T22:44:42.582000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.75
+            ],
+            "choice_rt": 787,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4947200,
+                "duration": 1805,
+                "time_elapsed": 4326566,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.45
+                ],
+                "top": [
+                    1,
+                    0.75
+                ]
+            }
+        }
+    },
+    "taskData_b9_t23": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3203,
+            "time_elapsed": 4418063,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5037298,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 828,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5034966,
+            "duration": 516,
+            "time_elapsed": 4413043,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 5040503,
+                "duration": 1266,
+                "time_elapsed": 4419330,
+                "key_press_info": [
+                    {
+                        "rt": 764,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349170838,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5041268,
+                        "local_time": "2023-08-29T22:46:10.838000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.8
+            ],
+            "choice_rt": 764,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 5035483,
+                "duration": 1812,
+                "time_elapsed": 4414856,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.8
+                ],
+                "top": [
+                    3,
+                    0.3
+                ]
+            }
+        }
+    },
+    "maintask_summary": {
+        "time_elapsed": 4532218,
+        "end_time": "2023-08-29T22:48:04.235000+00:00",
+        "quick_data_QA": {
+            "Galaxy_choice_proportion": 0.9625668449197861,
+            "SRO_sequences_completed_inNoValuePlanet_proportion": 0,
+            "SRO_sequences_completed_proportion": 0.5603864734299517
+        },
+        "bonus": {
+            "SRO_money_won": 3.29,
+            "total_money_won": 4.29,
+            "galaxy_money_won": 1
+        }
+    },
+    "taskData_b9_t14": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3200,
+            "time_elapsed": 4356837,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4976076,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 837,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4973758,
+            "duration": 506,
+            "time_elapsed": 4351825,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4979278,
+                "duration": 1339,
+                "time_elapsed": 4358178,
+                "key_press_info": [
+                    {
+                        "rt": 838,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349109686,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4980116,
+                        "local_time": "2023-08-29T22:45:09.686000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                4,
+                0.65
+            ],
+            "choice_rt": 838,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4974265,
+                "duration": 1808,
+                "time_elapsed": 4353634,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    3,
+                    0.75
+                ],
+                "top": [
+                    4,
+                    0.65
+                ]
+            }
+        }
+    },
+    "taskData_b9_t4": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3210,
+            "time_elapsed": 4289017,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4908245,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 847,
+                "under_ice": [],
+                "red": 1
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4905921,
+            "duration": 505,
+            "time_elapsed": 4283987,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4911458,
+                "duration": 1181,
+                "time_elapsed": 4290200,
+                "key_press_info": [
+                    {
+                        "rt": 674,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349041702,
+                        "key_press_duration": 224,
+                        "correct_key": true,
+                        "time_in_experiment": 4912132,
+                        "local_time": "2023-08-29T22:44:01.702000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                7,
+                0.75
+            ],
+            "choice_rt": 674,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4906427,
+                "duration": 1815,
+                "time_elapsed": 4285803,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    7,
+                    0.75
+                ],
+                "top": [
+                    1,
+                    0.85
+                ]
+            }
+        }
+    },
+    "taskData_b9_t2": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3214,
+            "time_elapsed": 4275289,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4894514,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 847,
+                "under_ice": [],
+                "red": 1
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4892189,
+            "duration": 514,
+            "time_elapsed": 4270264,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4897729,
+                "duration": 1342,
+                "time_elapsed": 4276632,
+                "key_press_info": [
+                    {
+                        "rt": 834,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349028133,
+                        "key_press_duration": 145,
+                        "correct_key": true,
+                        "time_in_experiment": 4898563,
+                        "local_time": "2023-08-29T22:43:48.133000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.3
+            ],
+            "choice_rt": 834,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4892705,
+                "duration": 1806,
+                "time_elapsed": 4272072,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.3
+                ],
+                "top": [
+                    6,
+                    0.15
+                ]
+            }
+        }
+    },
+    "tabSwitchingTracking": {
+        "events": [
+            {
+                "time": 1693344156142,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1693344158843,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1693344187446,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1693344189428,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1693344750499,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1693344751501,
+                "tabVisibility": "visible"
+            },
+            {
+                "time": 1693344817406,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1693344818537,
+                "tabVisibility": "visible"
+            }
+        ],
+        "initialState": "visible"
+    },
+    "dataNotSaved": [
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        },
+        {
+            "msg": "trying to break data into parts",
+            "in": "task_done",
+            "backup": "allData"
+        }
+    ],
+    "taskData_b9_t17": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3207,
+            "time_elapsed": 4377389,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4996620,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 834,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4994292,
+            "duration": 507,
+            "time_elapsed": 4372360,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4999830,
+                "duration": 1204,
+                "time_elapsed": 4378595,
+                "key_press_info": [
+                    {
+                        "rt": 702,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349130102,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5000532,
+                        "local_time": "2023-08-29T22:45:30.102000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.45
+            ],
+            "choice_rt": 702,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4994801,
+                "duration": 1815,
+                "time_elapsed": 4374177,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    7,
+                    0.3
+                ],
+                "top": [
+                    5,
+                    0.45
+                ]
+            }
+        }
+    },
+    "taskData_b9_t19": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4390897,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1326
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1550
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1741
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 5010135,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 831,
+                "under_ice": [],
+                "red": 4
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5007824,
+            "duration": 501,
+            "time_elapsed": 4385886,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 5013339,
+                "duration": 1274,
+                "time_elapsed": 4392174,
+                "key_press_info": [
+                    {
+                        "rt": 763,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349143672,
+                        "key_press_duration": 126,
+                        "correct_key": true,
+                        "time_in_experiment": 5014102,
+                        "local_time": "2023-08-29T22:45:43.672000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.4
+            ],
+            "choice_rt": 763,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5008326,
+                "duration": 1805,
+                "time_elapsed": 4387692,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.45
+                ],
+                "top": [
+                    5,
+                    0.4
+                ]
+            }
+        }
+    },
+    "taskData_b9_t9": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3202,
+            "time_elapsed": 4322990,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4942226,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 840,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4939909,
+            "duration": 510,
+            "time_elapsed": 4317980,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4945430,
+                "duration": 1259,
+                "time_elapsed": 4324250,
+                "key_press_info": [
+                    {
+                        "rt": 750,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349075750,
+                        "key_press_duration": 160,
+                        "correct_key": true,
+                        "time_in_experiment": 4946180,
+                        "local_time": "2023-08-29T22:44:35.750000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.95
+            ],
+            "choice_rt": 750,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4940420,
+                "duration": 1802,
+                "time_elapsed": 4319783,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.95
+                ],
+                "top": [
+                    7,
+                    0.8
+                ]
+            }
+        }
+    },
+    "taskData_b9_t6": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3202,
+            "time_elapsed": 4302593,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4921829,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 843,
+                "under_ice": [],
+                "red": 2
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4919495,
+            "duration": 516,
+            "time_elapsed": 4297572,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4925034,
+                "duration": 1247,
+                "time_elapsed": 4303842,
+                "key_press_info": [
+                    {
+                        "rt": 746,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349055350,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4925780,
+                        "local_time": "2023-08-29T22:44:15.350000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                1
+            ],
+            "choice_rt": 746,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4920012,
+                "duration": 1813,
+                "time_elapsed": 4299386,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    4,
+                    0.65
+                ],
+                "top": [
+                    1,
+                    1
+                ]
+            }
+        }
+    },
+    "taskData_b8_t33": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3212,
+            "time_elapsed": 4241759,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4860985,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 18,
+                "gold": 550,
+                "under_ice": [
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "blue",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win"
+                ],
+                "red": 10
+            },
+            "isHiddenOutcome": true
+        },
+        "fixation": {
+            "startTime": 4858656,
+            "duration": 511,
+            "time_elapsed": 4236728,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4864199,
+                "duration": 1234,
+                "time_elapsed": 4242994,
+                "key_press_info": [
+                    {
+                        "rt": 734,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693348994503,
+                        "key_press_duration": 143,
+                        "correct_key": true,
+                        "time_in_experiment": 4864933,
+                        "local_time": "2023-08-29T22:43:14.503000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                3,
+                0.85
+            ],
+            "choice_rt": 734,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4859169,
+                "duration": 1812,
+                "time_elapsed": 4238542,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    3,
+                    0.85
+                ],
+                "top": [
+                    5,
+                    0.4
+                ]
+            }
+        },
+        "block_summary": {
+            "startTime": 4865436,
+            "duration": 17752,
+            "time_elapsed": 4260749,
+            "key_press_info": [
+                {
+                    "rt": 15016,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693349010022,
+                    "key_press_duration": 160,
+                    "correct_key": true,
+                    "time_in_experiment": 4880452,
+                    "local_time": "2023-08-29T22:43:30.022000+00:00"
+                },
+                {
+                    "rt": 17752,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693349012758,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 4883188,
+                    "local_time": "2023-08-29T22:43:32.758000+00:00"
+                }
+            ],
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 850,
+                "under_ice": [],
+                "red": 0
+            }
+        }
+    },
+    "taskData_b9_t33": {
+        "task_summary": {
+            "moneyWonGold": 3.29,
+            "duration": 23169,
+            "time_elapsed": 4509950,
+            "goldUnitWorth": 0.0034423407917383822,
+            "startTime": 5109219,
+            "key_press_info": [
+                {
+                    "rt": 11248,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693349250037,
+                    "key_press_duration": 129,
+                    "correct_key": true,
+                    "time_in_experiment": 5120467,
+                    "local_time": "2023-08-29T22:47:30.037000+00:00"
+                },
+                {
+                    "rt": 23169,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693349261958,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 5132388,
+                    "local_time": "2023-08-29T22:47:41.958000+00:00"
+                }
+            ],
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 956,
+                "under_ice": [],
+                "red": 0
+            }
+        },
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3208,
+            "time_elapsed": 4485546,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1017
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1242
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1482
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 5104777,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 816,
+                "under_ice": [],
+                "red": 7
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5102461,
+            "duration": 504,
+            "time_elapsed": 4480526,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 5107987,
+                "duration": 1230,
+                "time_elapsed": 4486778,
+                "key_press_info": [
+                    {
+                        "rt": 720,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349238277,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5108707,
+                        "local_time": "2023-08-29T22:47:18.277000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.85
+            ],
+            "choice_rt": 720,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5102967,
+                "duration": 1807,
+                "time_elapsed": 4482335,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.85
+                ],
+                "top": [
+                    7,
+                    0.35
+                ]
+            }
+        },
+        "galaxyLottery": {
+            "duration": 18110,
+            "time_elapsed": 4528108,
+            "wonLottery": true,
+            "lottery_result": 0.7744339653894086,
+            "startTime": 5132425,
+            "chosenGalaxyIndex": 131,
+            "key_press_info": [
+                {
+                    "rt": 18109,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693349280105,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 5150535,
+                    "local_time": "2023-08-29T22:48:00.105000+00:00"
+                }
+            ],
+            "moneyWonLottery": 1,
+            "chosenGamble": [
+                1,
+                1
+            ]
+        }
+    },
+    "taskData_b8_t29": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3211,
+            "time_elapsed": 4214314,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4833542,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 16,
+                "gold": 556,
+                "under_ice": [
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "blue",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win"
+                ],
+                "red": 10
+            },
+            "isHiddenOutcome": true
+        },
+        "fixation": {
+            "startTime": 4831215,
+            "duration": 509,
+            "time_elapsed": 4209285,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "sanityCheck",
+            "choose_gamble_info": {
+                "startTime": 4836755,
+                "duration": 1324,
+                "time_elapsed": 4215640,
+                "key_press_info": [
+                    {
+                        "rt": 818,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693348967143,
+                        "key_press_duration": 143,
+                        "correct_key": true,
+                        "time_in_experiment": 4837573,
+                        "local_time": "2023-08-29T22:42:47.143000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.85
+            ],
+            "choice_rt": 818,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4831725,
+                "duration": 1811,
+                "time_elapsed": 4211097,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.5
+                ],
+                "top": [
+                    6,
+                    0.85
+                ]
+            }
+        }
+    },
+    "taskData_b9_t15": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3203,
+            "time_elapsed": 4363704,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1095
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1337
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1529
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 4982939,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 834,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4980623,
+            "duration": 505,
+            "time_elapsed": 4358689,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4986146,
+                "duration": 1387,
+                "time_elapsed": 4365094,
+                "key_press_info": [
+                    {
+                        "rt": 882,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349116598,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4987028,
+                        "local_time": "2023-08-29T22:45:16.598000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                4,
+                0.5
+            ],
+            "choice_rt": 882,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4981130,
+                "duration": 1806,
+                "time_elapsed": 4360497,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    7,
+                    0.1
+                ],
+                "top": [
+                    4,
+                    0.5
+                ]
+            }
+        }
+    },
+    "taskData_b9_t13": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3212,
+            "time_elapsed": 4350166,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1020
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1235
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1459
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 4969393,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 837,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4967069,
+            "duration": 514,
+            "time_elapsed": 4345144,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4972607,
+                "duration": 1146,
+                "time_elapsed": 4351314,
+                "key_press_info": [
+                    {
+                        "rt": 645,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349102822,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4973252,
+                        "local_time": "2023-08-29T22:45:02.822000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.6
+            ],
+            "choice_rt": 645,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4967585,
+                "duration": 1802,
+                "time_elapsed": 4346948,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.6
+                ],
+                "top": [
+                    6,
+                    0.3
+                ]
+            }
+        }
+    },
+    "taskData_b9_t24": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4424862,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1095
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1312
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1505
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 5044099,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 825,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5041774,
+            "duration": 508,
+            "time_elapsed": 4419843,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 5047303,
+                "duration": 1138,
+                "time_elapsed": 4426002,
+                "key_press_info": [
+                    {
+                        "rt": 637,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349177510,
+                        "key_press_duration": 160,
+                        "correct_key": true,
+                        "time_in_experiment": 5047940,
+                        "local_time": "2023-08-29T22:46:17.510000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.4
+            ],
+            "choice_rt": 637,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5042283,
+                "duration": 1812,
+                "time_elapsed": 4421656,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.25
+                ],
+                "top": [
+                    1,
+                    0.4
+                ]
+            }
+        }
+    },
+    "taskData_b9_t3": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3200,
+            "time_elapsed": 4282160,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4901398,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 847,
+                "under_ice": [],
+                "red": 1
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4899078,
+            "duration": 508,
+            "time_elapsed": 4277147,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 4904600,
+                "duration": 1309,
+                "time_elapsed": 4283470,
+                "key_press_info": [
+                    {
+                        "rt": 796,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349034966,
+                        "key_press_duration": 176,
+                        "correct_key": true,
+                        "time_in_experiment": 4905396,
+                        "local_time": "2023-08-29T22:43:54.966000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                3,
+                0.65
+            ],
+            "choice_rt": 796,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4899587,
+                "duration": 1807,
+                "time_elapsed": 4278955,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    4,
+                    0.25
+                ],
+                "top": [
+                    3,
+                    0.65
+                ]
+            }
+        }
+    },
+    "taskData_b9_t30": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3202,
+            "time_elapsed": 4465245,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5084481,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 822,
+                "under_ice": [],
+                "red": 6
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5082165,
+            "duration": 509,
+            "time_elapsed": 4460235,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 5087685,
+                "duration": 1283,
+                "time_elapsed": 4466529,
+                "key_press_info": [
+                    {
+                        "rt": 782,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349218038,
+                        "key_press_duration": 160,
+                        "correct_key": true,
+                        "time_in_experiment": 5088468,
+                        "local_time": "2023-08-29T22:46:58.038000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                2,
+                0.7
+            ],
+            "choice_rt": 782,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 5082676,
+                "duration": 1800,
+                "time_elapsed": 4462037,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.7
+                ],
+                "top": [
+                    6,
+                    0.5
+                ]
+            }
+        }
+    },
+    "taskData_b9_t25": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3213,
+            "time_elapsed": 4431541,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5050766,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 825,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5048447,
+            "duration": 502,
+            "time_elapsed": 4426510,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "EV_ratio_1",
+            "choose_gamble_info": {
+                "startTime": 5053982,
+                "duration": 1146,
+                "time_elapsed": 4432689,
+                "key_press_info": [
+                    {
+                        "rt": 646,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349184198,
+                        "key_press_duration": 143,
+                        "correct_key": true,
+                        "time_in_experiment": 5054628,
+                        "local_time": "2023-08-29T22:46:24.198000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.2
+            ],
+            "choice_rt": 646,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5048950,
+                "duration": 1812,
+                "time_elapsed": 4428323,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    4,
+                    0.25
+                ],
+                "top": [
+                    5,
+                    0.2
+                ]
+            }
+        }
+    },
+    "taskData_b9_t22": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3212,
+            "time_elapsed": 4411292,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5030518,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 828,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5028193,
+            "duration": 514,
+            "time_elapsed": 4406268,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 5033733,
+                "duration": 1228,
+                "time_elapsed": 4412522,
+                "key_press_info": [
+                    {
+                        "rt": 719,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349164022,
+                        "key_press_duration": 97,
+                        "correct_key": true,
+                        "time_in_experiment": 5034452,
+                        "local_time": "2023-08-29T22:46:04.022000+00:00"
+                    },
+                    {
+                        "rt": 832,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349164135,
+                        "key_press_duration": 110,
+                        "correct_key": true,
+                        "time_in_experiment": 5034565,
+                        "local_time": "2023-08-29T22:46:04.135000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.25
+            ],
+            "choice_rt": 719,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5028708,
+                "duration": 1806,
+                "time_elapsed": 4408075,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    4,
+                    0.9
+                ],
+                "top": [
+                    6,
+                    0.25
+                ]
+            }
+        }
+    },
+    "debriefing": {
+        "10": {
+            "rt": 4746,
+            "time_elapsed": 5278491,
+            "response": "{\"Q0\":\"No.\"}"
+        },
+        "6": {
+            "rt": 5514,
+            "time_elapsed": 5059299,
+            "response": "{\"Q0\":\"No.\"}"
+        },
+        "5": {
+            "rt": 34866,
+            "time_elapsed": 5053779,
+            "response": "{\"Q0\":\"Yes, but only once because I forgot. The rest of the times after the blue astronaut left the blue planet, I didn't respond when the blue planet appeared.\"}"
+        },
+        "11": {
+            "rt": 65483,
+            "time_elapsed": 5343979,
+            "response": "{\"Q0\":\"It examines attention, awareness, concentration, resisting the urge to click on buttons when told I wouldn't gain any gems of a certain color, processing speed, ability to click within the set amount of time.\"}"
+        },
+        "13": {
+            "rt": 6580,
+            "time_elapsed": 5353883,
+            "response": "{\"Q0\":\"No.\"}"
+        },
+        "0": {
+            "rt": 90362,
+            "time_elapsed": 4947084,
+            "response": "{\"Q0\":\"At the beginning when I was learning the sequence of actions, I kept repeating each set of actions until I had them memorized. I simply had to make myself not respond when the yellow planet appeared. When the blue astronaut left the blue planet, I had to make myself not respond when the blue planet appeared. \"}"
+        },
+        "7": {
+            "rt": 86812,
+            "time_elapsed": 5146115,
+            "response": "{\"Q0\":\"I didn't respond when the blue or yellow planets appeared, so I wasn't motivated to search for blue gems. However, I was always motivated to search for red gems because the red astronaut never left the blue planet and they were the only gems I could collect and sell after the blue astronaut left the blue planet.\"}"
+        },
+        "9": {
+            "rt": 97843,
+            "time_elapsed": 5273739,
+            "response": "{\"Q0\":\"I loved visiting the planets because collecting red and blue gems (before the blue astronaut left the blue planet) were the best way of earning money. The selecting of galaxies was more of a gamble, timing, and attention.\"}"
+        },
+        "1": {
+            "rt": 7914,
+            "time_elapsed": 4955003,
+            "response": "{\"Q0\":\"No\"}"
+        },
+        "2": {
+            "rt": 21803,
+            "time_elapsed": 4976811,
+            "response": "{\"Q0\":\"80%\"}"
+        },
+        "8": {
+            "rt": 29769,
+            "time_elapsed": 5175891,
+            "response": "{\"Q0\":\"I tried to choose the galaxy that had the bigger chance of winning the bigger amount. \"}"
+        },
+        "3": {
+            "rt": 37442,
+            "time_elapsed": 5014259,
+            "response": "{\"Q0\":\"Yes. In my game, it was the blue astronaut leaving the blue planet. I was told I would not be able to sell any blue gems.\"}"
+        },
+        "4": {
+            "rt": 4642,
+            "time_elapsed": 5018907,
+            "response": "{\"Q0\":\"Yes.\"}"
+        },
+        "12": {
+            "rt": 3314,
+            "time_elapsed": 5347299,
+            "response": "{\"Q0\":\"No.\"}"
+        }
+    },
+    "taskData_b9_t28": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4451759,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1827
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 2062
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2287
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 5070997,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 822,
+                "under_ice": [],
+                "red": 6
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5068679,
+            "duration": 504,
+            "time_elapsed": 4446744,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "sanityCheck",
+            "choose_gamble_info": {
+                "startTime": 5074200,
+                "duration": 1225,
+                "time_elapsed": 4452986,
+                "key_press_info": [
+                    {
+                        "rt": 715,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349204485,
+                        "key_press_duration": 146,
+                        "correct_key": true,
+                        "time_in_experiment": 5074915,
+                        "local_time": "2023-08-29T22:46:44.485000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.8
+            ],
+            "choice_rt": 715,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 5069184,
+                "duration": 1808,
+                "time_elapsed": 4448553,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.8
+                ],
+                "top": [
+                    1,
+                    0.05
+                ]
+            }
+        }
+    },
+    "taskData_b8_t30": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3216,
+            "time_elapsed": 4221180,
+            "stimType": "planet_blue",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1196
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1425
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1665
+                }
+            ],
+            "rewardType": "blue",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 4840403,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 17,
+                "gold": 553,
+                "under_ice": [
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "blue",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "no_win"
+                ],
+                "red": 10
+            },
+            "isHiddenOutcome": true
+        },
+        "fixation": {
+            "startTime": 4838083,
+            "duration": 508,
+            "time_elapsed": 4216152,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4843621,
+                "duration": 1308,
+                "time_elapsed": 4222490,
+                "key_press_info": [
+                    {
+                        "rt": 801,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693348973992,
+                        "key_press_duration": 159,
+                        "correct_key": true,
+                        "time_in_experiment": 4844422,
+                        "local_time": "2023-08-29T22:42:53.992000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                3,
+                0.95
+            ],
+            "choice_rt": 801,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4838592,
+                "duration": 1807,
+                "time_elapsed": 4217961,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    3,
+                    0.95
+                ],
+                "top": [
+                    7,
+                    0.35
+                ]
+            }
+        }
+    },
+    "subjectID": "615dd0b0a024ba4f4b4f7c24",
+    "taskData_b9_t7": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3211,
+            "time_elapsed": 4309365,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1483
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1715
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1891
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 4928593,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 840,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4926286,
+            "duration": 500,
+            "time_elapsed": 4304347,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "EV_ratio_1",
+            "choose_gamble_info": {
+                "startTime": 4931806,
+                "duration": 1231,
+                "time_elapsed": 4310599,
+                "key_press_info": [
+                    {
+                        "rt": 726,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349062102,
+                        "key_press_duration": 163,
+                        "correct_key": true,
+                        "time_in_experiment": 4932532,
+                        "local_time": "2023-08-29T22:44:22.102000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                2,
+                0.45
+            ],
+            "choice_rt": 726,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4926788,
+                "duration": 1802,
+                "time_elapsed": 4306151,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.45
+                ],
+                "top": [
+                    6,
+                    0.15
+                ]
+            }
+        }
+    },
+    "taskData_b9_t12": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3203,
+            "time_elapsed": 4343322,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4962558,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 840,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4960226,
+            "duration": 515,
+            "time_elapsed": 4338302,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 4965762,
+                "duration": 1291,
+                "time_elapsed": 4344614,
+                "key_press_info": [
+                    {
+                        "rt": 786,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349096118,
+                        "key_press_duration": 143,
+                        "correct_key": true,
+                        "time_in_experiment": 4966548,
+                        "local_time": "2023-08-29T22:44:56.118000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.75
+            ],
+            "choice_rt": 786,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4960742,
+                "duration": 1812,
+                "time_elapsed": 4340115,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.75
+                ],
+                "top": [
+                    7,
+                    0.25
+                ]
+            }
+        }
+    },
+    "taskData_b9_t16": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3212,
+            "time_elapsed": 4370631,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4989857,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 834,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4987538,
+            "duration": 512,
+            "time_elapsed": 4365611,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4993071,
+                "duration": 1210,
+                "time_elapsed": 4371842,
+                "key_press_info": [
+                    {
+                        "rt": 708,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349123350,
+                        "key_press_duration": 161,
+                        "correct_key": true,
+                        "time_in_experiment": 4993780,
+                        "local_time": "2023-08-29T22:45:23.350000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.6
+            ],
+            "choice_rt": 708,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4988051,
+                "duration": 1803,
+                "time_elapsed": 4367415,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.6
+                ],
+                "top": [
+                    7,
+                    0.05
+                ]
+            }
+        }
+    },
+    "taskData_b9_t21": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3215,
+            "time_elapsed": 4404476,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5023700,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 828,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5021373,
+            "duration": 510,
+            "time_elapsed": 4399444,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 5026916,
+                "duration": 1273,
+                "time_elapsed": 4405750,
+                "key_press_info": [
+                    {
+                        "rt": 768,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349157254,
+                        "key_press_duration": 159,
+                        "correct_key": true,
+                        "time_in_experiment": 5027684,
+                        "local_time": "2023-08-29T22:45:57.254000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.4
+            ],
+            "choice_rt": 768,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5021884,
+                "duration": 1813,
+                "time_elapsed": 4401258,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.2
+                ],
+                "top": [
+                    5,
+                    0.4
+                ]
+            }
+        }
+    },
+    "screenStatusTracking": {
+        "events": [
+            {
+                "Fullscreen": "enabled",
+                "time": 1693344756460
+            },
+            {
+                "Fullscreen": "disabled",
+                "time": 1693344815872
+            }
+        ],
+        "initialState": "not_in_full_screen"
+    },
+    "taskData_b9_t31": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3212,
+            "time_elapsed": 4472071,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5091297,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 822,
+                "under_ice": [],
+                "red": 6
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5088973,
+            "duration": 508,
+            "time_elapsed": 4467042,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "sanityCheck",
+            "choose_gamble_info": {
+                "startTime": 5094512,
+                "duration": 1179,
+                "time_elapsed": 4473252,
+                "key_press_info": [
+                    {
+                        "rt": 676,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349224758,
+                        "key_press_duration": 143,
+                        "correct_key": true,
+                        "time_in_experiment": 5095188,
+                        "local_time": "2023-08-29T22:47:04.758000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                2,
+                0.95
+            ],
+            "choice_rt": 676,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5089483,
+                "duration": 1808,
+                "time_elapsed": 4468852,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.9
+                ],
+                "top": [
+                    2,
+                    0.95
+                ]
+            }
+        }
+    },
+    "taskData_b8_t32": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3214,
+            "time_elapsed": 4234878,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4854102,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 18,
+                "gold": 550,
+                "under_ice": [
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "blue",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win"
+                ],
+                "red": 10
+            },
+            "isHiddenOutcome": true
+        },
+        "fixation": {
+            "startTime": 4851774,
+            "duration": 513,
+            "time_elapsed": 4229848,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "EV_ratio_1",
+            "choose_gamble_info": {
+                "startTime": 4857318,
+                "duration": 1330,
+                "time_elapsed": 4236209,
+                "key_press_info": [
+                    {
+                        "rt": 830,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693348987718,
+                        "key_press_duration": 143,
+                        "correct_key": true,
+                        "time_in_experiment": 4858148,
+                        "local_time": "2023-08-29T22:43:07.718000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                2,
+                0.6
+            ],
+            "choice_rt": 830,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4852289,
+                "duration": 1809,
+                "time_elapsed": 4231659,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.2
+                ],
+                "top": [
+                    2,
+                    0.6
+                ]
+            }
+        }
+    },
+    "taskData_b8_t28": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3202,
+            "time_elapsed": 4207572,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1602
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1803
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1994
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 4826809,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 16,
+                "gold": 556,
+                "under_ice": [
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "blue",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win"
+                ],
+                "red": 10
+            },
+            "isHiddenOutcome": true
+        },
+        "fixation": {
+            "startTime": 4824486,
+            "duration": 504,
+            "time_elapsed": 4202551,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 4830012,
+                "duration": 1198,
+                "time_elapsed": 4208771,
+                "key_press_info": [
+                    {
+                        "rt": 694,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693348960277,
+                        "key_press_duration": 163,
+                        "correct_key": true,
+                        "time_in_experiment": 4830707,
+                        "local_time": "2023-08-29T22:42:40.277000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.45
+            ],
+            "choice_rt": 694,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4824992,
+                "duration": 1813,
+                "time_elapsed": 4204366,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.45
+                ],
+                "top": [
+                    7,
+                    0.1
+                ]
+            }
+        }
+    },
+    "taskData_b9_t32": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3215,
+            "time_elapsed": 4478804,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1198
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1431
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1655
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 5098028,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 819,
+                "under_ice": [],
+                "red": 6
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5095698,
+            "duration": 512,
+            "time_elapsed": 4473771,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 5101244,
+                "duration": 1212,
+                "time_elapsed": 4480017,
+                "key_press_info": [
+                    {
+                        "rt": 711,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349231525,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5101955,
+                        "local_time": "2023-08-29T22:47:11.525000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                2,
+                0.8
+            ],
+            "choice_rt": 711,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5096211,
+                "duration": 1813,
+                "time_elapsed": 4475585,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    2,
+                    0.8
+                ],
+                "top": [
+                    7,
+                    0.2
+                ]
+            }
+        }
+    },
+    "taskData_b9_t29": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3202,
+            "time_elapsed": 4458527,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5077764,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 822,
+                "under_ice": [],
+                "red": 6
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5075431,
+            "duration": 515,
+            "time_elapsed": 4453507,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "sanityCheck",
+            "choose_gamble_info": {
+                "startTime": 5080967,
+                "duration": 1192,
+                "time_elapsed": 4459720,
+                "key_press_info": [
+                    {
+                        "rt": 684,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349211221,
+                        "key_press_duration": 146,
+                        "correct_key": true,
+                        "time_in_experiment": 5081651,
+                        "local_time": "2023-08-29T22:46:51.221000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                5,
+                0.45
+            ],
+            "choice_rt": 684,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5075948,
+                "duration": 1812,
+                "time_elapsed": 4455321,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.45
+                ],
+                "top": [
+                    3,
+                    0.45
+                ]
+            }
+        }
+    },
+    "taskData_b9_t20": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4397713,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 947
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1166
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1372
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 5016951,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 828,
+                "under_ice": [],
+                "red": 5
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5014618,
+            "duration": 513,
+            "time_elapsed": 4392692,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 5020154,
+                "duration": 1214,
+                "time_elapsed": 4398929,
+                "key_press_info": [
+                    {
+                        "rt": 713,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349150437,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5020867,
+                        "local_time": "2023-08-29T22:45:50.437000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                4,
+                0.65
+            ],
+            "choice_rt": 713,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5015133,
+                "duration": 1814,
+                "time_elapsed": 4394509,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.1
+                ],
+                "top": [
+                    4,
+                    0.65
+                ]
+            }
+        }
+    },
+    "windowFocusTracking": {
+        "events": [
+            {
+                "WindowFocus": "lost",
+                "time": 1693344156140
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1693344158845
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1693344187444
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1693344189430
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1693344750372
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1693344751507
+            },
+            {
+                "WindowFocus": "lost",
+                "time": 1693344817403
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1693344818539
+            }
+        ],
+        "initialState": "in_focus"
+    },
+    "taskData_b8_t31": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3205,
+            "time_elapsed": 4228018,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1302
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1520
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1728
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": false,
+            "startTime": 4847252,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 18,
+                "gold": 550,
+                "under_ice": [
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "blue",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win",
+                    "red",
+                    "red",
+                    "no_win",
+                    "no_win",
+                    "no_win"
+                ],
+                "red": 10
+            },
+            "isHiddenOutcome": true
+        },
+        "fixation": {
+            "startTime": 4844934,
+            "duration": 508,
+            "time_elapsed": 4223003,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 4850458,
+                "duration": 1310,
+                "time_elapsed": 4229330,
+                "key_press_info": [
+                    {
+                        "rt": 809,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693348980838,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4851267,
+                        "local_time": "2023-08-29T22:43:00.838000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.35
+            ],
+            "choice_rt": 809,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4845443,
+                "duration": 1805,
+                "time_elapsed": 4224809,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.35
+                ],
+                "top": [
+                    7,
+                    0.2
+                ]
+            }
+        }
+    },
+    "taskData_b9_t18": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3205,
+            "time_elapsed": 4384121,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 5003354,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 834,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 5001041,
+            "duration": 502,
+            "time_elapsed": 4379104,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "easy",
+            "choose_gamble_info": {
+                "startTime": 5006561,
+                "duration": 1257,
+                "time_elapsed": 4385379,
+                "key_press_info": [
+                    {
+                        "rt": 755,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349136886,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 5007316,
+                        "local_time": "2023-08-29T22:45:36.886000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.25
+            ],
+            "choice_rt": 755,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 5001545,
+                "duration": 1805,
+                "time_elapsed": 4380911,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.3
+                ],
+                "top": [
+                    6,
+                    0.25
+                ]
+            }
+        }
+    },
+    "taskData_b9_t5": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4295724,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1232
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1746
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 2418
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2626
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -4,
+            "isWin": true,
+            "startTime": 4914962,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 843,
+                "under_ice": [],
+                "red": 2
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4912645,
+            "duration": 505,
+            "time_elapsed": 4290711,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 4918165,
+                "duration": 1324,
+                "time_elapsed": 4297050,
+                "key_press_info": [
+                    {
+                        "rt": 815,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349048550,
+                        "key_press_duration": 129,
+                        "correct_key": true,
+                        "time_in_experiment": 4918980,
+                        "local_time": "2023-08-29T22:44:08.550000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.95
+            ],
+            "choice_rt": 815,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4913151,
+                "duration": 1807,
+                "time_elapsed": 4292519,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.95
+                ],
+                "top": [
+                    4,
+                    0.4
+                ]
+            }
+        }
+    },
+    "taskData_b9_t8": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4316123,
+            "stimType": "planet_yellow",
+            "keyPressSummary": [],
+            "rewardType": "rock",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4935361,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 840,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4933043,
+            "duration": 506,
+            "time_elapsed": 4311110,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "EV_ratio_1",
+            "choose_gamble_info": {
+                "startTime": 4938564,
+                "duration": 1340,
+                "time_elapsed": 4317465,
+                "key_press_info": [
+                    {
+                        "rt": 831,
+                        "key_char": "a",
+                        "key": 65,
+                        "abs_time": 1693349068965,
+                        "key_press_duration": 160,
+                        "correct_key": true,
+                        "time_in_experiment": 4939395,
+                        "local_time": "2023-08-29T22:44:28.965000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.5
+            ],
+            "choice_rt": 831,
+            "chosen_direction": "left",
+            "chosen_location": "arrow_top",
+            "choice_key": "a",
+            "view_gamble_info": {
+                "startTime": 4933550,
+                "duration": 1807,
+                "time_elapsed": 4312918,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    5,
+                    0.6
+                ],
+                "top": [
+                    6,
+                    0.5
+                ]
+            }
+        }
+    },
+    "time_end": "7:01:45 PM",
+    "taskData_b9_t11": {
+        "SRO": {
+            "activeManipulation": "devaluation",
+            "duration": 3214,
+            "time_elapsed": 4336616,
+            "stimType": "planet_blue",
+            "keyPressSummary": [],
+            "rewardType": "blue",
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4955841,
+            "sequenceCompleted": 0,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 840,
+                "under_ice": [],
+                "red": 3
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4953524,
+            "duration": 511,
+            "time_elapsed": 4331596,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "medium",
+            "choose_gamble_info": {
+                "startTime": 4959056,
+                "duration": 1165,
+                "time_elapsed": 4337782,
+                "key_press_info": [
+                    {
+                        "rt": 660,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349089286,
+                        "key_press_duration": 144,
+                        "correct_key": true,
+                        "time_in_experiment": 4959716,
+                        "local_time": "2023-08-29T22:44:49.286000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                1,
+                0.75
+            ],
+            "choice_rt": 660,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_top",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4954036,
+                "duration": 1801,
+                "time_elapsed": 4333398,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    3,
+                    0.4
+                ],
+                "top": [
+                    1,
+                    0.75
+                ]
+            }
+        }
+    },
+    "taskData_b9_t1": {
+        "SRO": {
+            "activeManipulation": null,
+            "duration": 3201,
+            "time_elapsed": 4268563,
+            "stimType": "planet_red",
+            "keyPressSummary": [
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1086
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1322
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1563
+                }
+            ],
+            "rewardType": "red",
+            "total_cost": -3,
+            "isWin": true,
+            "startTime": 4887801,
+            "sequenceCompleted": 1,
+            "key_press_info": null,
+            "outcomes_count": {
+                "blue": 0,
+                "ice": 0,
+                "gold": 847,
+                "under_ice": [],
+                "red": 1
+            },
+            "isHiddenOutcome": false
+        },
+        "fixation": {
+            "startTime": 4885476,
+            "duration": 505,
+            "time_elapsed": 4263542,
+            "key_press_info": []
+        },
+        "blockType": "dual",
+        "gamble": {
+            "gamble_type": "hard",
+            "choose_gamble_info": {
+                "startTime": 4891004,
+                "duration": 1180,
+                "time_elapsed": 4269745,
+                "key_press_info": [
+                    {
+                        "rt": 679,
+                        "key_char": "s",
+                        "key": 83,
+                        "abs_time": 1693349021253,
+                        "key_press_duration": 177,
+                        "correct_key": true,
+                        "time_in_experiment": 4891683,
+                        "local_time": "2023-08-29T22:43:41.253000+00:00"
+                    }
+                ]
+            },
+            "chosen_gamble": [
+                6,
+                0.95
+            ],
+            "choice_rt": 679,
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_key": "s",
+            "view_gamble_info": {
+                "startTime": 4885982,
+                "duration": 1815,
+                "time_elapsed": 4265358,
+                "key_press_info": []
+            },
+            "gambles": {
+                "bottom": [
+                    6,
+                    0.95
+                ],
+                "top": [
+                    7,
+                    0.65
+                ]
+            }
+        },
+        "pre_block_msg": {
+            "startTime": 4883194,
+            "duration": 2274,
+            "time_elapsed": 4263029,
+            "key_press_info": [
+                {
+                    "rt": 2273,
+                    "key_char": " ",
+                    "key": 32,
+                    "abs_time": 1693349015038,
+                    "key_press_duration": null,
+                    "correct_key": true,
+                    "time_in_experiment": 4885468,
+                    "local_time": "2023-08-29T22:43:35.038000+00:00"
+                }
+            ]
+        }
+    },
+    "fb_id": "PIMLs3yxJlY4uXQaxKwzg2JRDbI2_18_42_41"
+}

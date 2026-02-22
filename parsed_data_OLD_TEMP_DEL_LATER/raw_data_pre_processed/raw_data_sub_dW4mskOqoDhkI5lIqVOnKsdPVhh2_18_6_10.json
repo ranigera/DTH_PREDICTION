@@ -1,0 +1,131 @@
+{
+    "taskData_b2_t8": {
+        "blockType": "SRO_only",
+        "fixation": {
+            "startTime": 6421284.199999988,
+            "duration": 508.30000001192093,
+            "key_press_info": [],
+            "time_elapsed": 6302348
+        },
+        "SRO": {
+            "stimType": "planet_blue",
+            "duration": 3210.9000000059605,
+            "keyPressSummary": [
+                {
+                    "key_pressed": "k",
+                    "key_rt": 903.3000000119209
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1321.300000011921
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1376.300000011921
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 1380.1000000238419
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 2144.800000011921
+                },
+                {
+                    "key_pressed": " ",
+                    "key_rt": 2353.100000023842
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2791.4000000059605
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 2818.5
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 3135.600000023842
+                }
+            ],
+            "activeManipulation": null,
+            "time_elapsed": 6305560,
+            "sequenceCompleted": 0,
+            "total_cost": -7,
+            "isWin": null,
+            "startTime": 6421793.899999976,
+            "rewardType": "blue",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 0,
+                "gold": -34,
+                "under_ice": [],
+                "red": 0
+            },
+            "isHiddenOutcome": false
+        }
+    },
+    "subNum": 1239,
+    "subjectID": "682624bb25a1418cfdfa1990",
+    "taskData_b2_t3": {
+        "blockType": "SRO_only",
+        "fixation": {
+            "startTime": 6402673.699999988,
+            "duration": 507.80000001192093,
+            "key_press_info": [],
+            "time_elapsed": 6283737
+        },
+        "SRO": {
+            "stimType": "planet_blue",
+            "duration": 3203.4000000059605,
+            "keyPressSummary": [
+                {
+                    "key_pressed": "j",
+                    "key_rt": 507.30000001192093
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1166.2000000178814
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 1860.4000000059605
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 1958.5
+                },
+                {
+                    "key_pressed": "k",
+                    "key_rt": 2627.300000011921
+                },
+                {
+                    "key_pressed": "l",
+                    "key_rt": 2636.5
+                },
+                {
+                    "key_pressed": "j",
+                    "key_rt": 2639.7000000178814
+                }
+            ],
+            "activeManipulation": null,
+            "time_elapsed": 6286942,
+            "sequenceCompleted": 1,
+            "total_cost": -4,
+            "isWin": false,
+            "startTime": 6403182.899999976,
+            "rewardType": "blue",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 0,
+                "gold": -10,
+                "under_ice": [],
+                "red": 0
+            },
+            "isHiddenOutcome": false
+        }
+    },
+    "fb_id": "dW4mskOqoDhkI5lIqVOnKsdPVhh2_18_6_10"
+}

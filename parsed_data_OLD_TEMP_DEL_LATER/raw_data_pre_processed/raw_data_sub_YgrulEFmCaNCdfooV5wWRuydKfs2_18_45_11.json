@@ -1,0 +1,79 @@
+{
+    "subNum": 1441,
+    "taskData_b9_t8": {
+        "blockType": "dual",
+        "fixation": {
+            "startTime": 4044455.0999999046,
+            "duration": 505,
+            "key_press_info": [],
+            "time_elapsed": 3987833
+        },
+        "SRO": {
+            "stimType": "planet_yellow",
+            "duration": 3201.7999999523163,
+            "keyPressSummary": [],
+            "activeManipulation": null,
+            "time_elapsed": 3992847,
+            "sequenceCompleted": 0,
+            "total_cost": 0,
+            "isWin": null,
+            "startTime": 4046771.2999999523,
+            "rewardType": "rock",
+            "key_press_info": null,
+            "outcomes_count": {
+                "ice": 0,
+                "blue": 1,
+                "gold": 711,
+                "under_ice": [],
+                "red": 1
+            },
+            "isHiddenOutcome": false
+        },
+        "gamble": {
+            "gambles": {
+                "bottom": [
+                    1,
+                    0.85
+                ],
+                "top": [
+                    6,
+                    0.7
+                ]
+            },
+            "choose_gamble_info": {
+                "startTime": 4049975.6999999285,
+                "duration": 1112.3000000715256,
+                "key_press_info": [
+                    {
+                        "rt": 610.2000000476837,
+                        "key": 83,
+                        "key_char": "s",
+                        "abs_time": 1748990675752,
+                        "key_press_duration": 151.59999990463257,
+                        "time_in_experiment": 4050586,
+                        "correct_key": true,
+                        "local_time": "2025-06-03T22:44:35.752000+00:00"
+                    }
+                ],
+                "time_elapsed": 3993961
+            },
+            "chosen_gamble": [
+                1,
+                0.85
+            ],
+            "choice_key": "s",
+            "chosen_direction": "right",
+            "chosen_location": "arrow_bottom",
+            "choice_rt": 610.2000000476837,
+            "view_gamble_info": {
+                "startTime": 4044963.399999976,
+                "duration": 1804.5,
+                "key_press_info": [],
+                "time_elapsed": 3989641
+            },
+            "gamble_type": "easy"
+        }
+    },
+    "subjectID": "67b746fca75ce7e982a23c67",
+    "fb_id": "YgrulEFmCaNCdfooV5wWRuydKfs2_18_45_11"
+}

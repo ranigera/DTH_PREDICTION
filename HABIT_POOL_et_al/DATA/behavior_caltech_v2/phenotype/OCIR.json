@@ -1,0 +1,9 @@
+{
+	"OCI_R": {
+		"Description": "Obsessive-Compulsive Inventory ? Revised",
+		"TermURL": ""
+	},
+	"scoring": {
+		"Description": "not all = 0; a little = 1; moderatly = 2; a lot = 3; extremly = 4"
+	}
+}

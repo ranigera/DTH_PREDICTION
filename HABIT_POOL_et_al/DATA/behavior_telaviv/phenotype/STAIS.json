@@ -1,0 +1,6 @@
+{
+	"STAI_S": {
+		"Description": "STAI_S: State-Trait Anxiety Inventory-State",
+		"Notes": "20-items scale; score: 1 = No, 2 = Rather no, 3 = Rather yes, 4 = Yes; items 1, 2, 5, 8, 10, 11, 15, 16, 19 and 20 are reversed"
+	}
+}

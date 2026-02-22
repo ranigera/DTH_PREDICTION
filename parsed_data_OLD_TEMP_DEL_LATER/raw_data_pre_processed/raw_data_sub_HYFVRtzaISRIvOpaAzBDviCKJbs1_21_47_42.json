@@ -1,0 +1,53 @@
+{
+    "subNum": 1096,
+    "questionnaires": {
+        "startTimeElapsed": 3819119,
+        "startRT": 13464.5
+    },
+    "maintask_summary.time_elapsed": 3805491,
+    "subjectID": "63d19839498b3afe724b69d6",
+    "maintask_summary.bonus.SRO_money_won": 3.11,
+    "maintask_summary.bonus.total_money_won": 3.11,
+    "maintask_summary.quick_data_QA.Galaxy_choice_proportion": 0.983957219251337,
+    "screenStatusTracking": {
+        "events": [
+            {
+                "Fullscreen": "enabled",
+                "time": 1694202331825
+            }
+        ],
+        "initialState": "not_in_full_screen"
+    },
+    "windowFocusTracking": {
+        "events": [
+            {
+                "WindowFocus": "lost",
+                "time": 1694202224650
+            },
+            {
+                "WindowFocus": "regained",
+                "time": 1694202244799
+            }
+        ],
+        "initialState": "in_focus"
+    },
+    "tabSwitchingTracking": {
+        "events": [
+            {
+                "time": 1694202228000,
+                "tabVisibility": "hidden"
+            },
+            {
+                "time": 1694202243669,
+                "tabVisibility": "visible"
+            }
+        ],
+        "initialState": "visible"
+    },
+    "maintask_summary.end_time": "2023-09-08T20:47:41.140000+00:00",
+    "dataNotSaved": [],
+    "maintask_summary.quick_data_QA.SRO_sequences_completed_inNoValuePlanet_proportion": 0,
+    "maintask_summary.bonus.galaxy_money_won": 0,
+    "maintask_summary.quick_data_QA.SRO_sequences_completed_proportion": 0.5507246376811594,
+    "fb_id": "HYFVRtzaISRIvOpaAzBDviCKJbs1_21_47_42"
+}
