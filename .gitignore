@@ -5,3 +5,9 @@ HABIT APP - ORIGINAL DATA - AUTOMATICITY CHECKS/data/extracted_data/*.csv
 HABIT APP - ORIGINAL DATA - AUTOMATICITY CHECKS/data/extracted_data/*.json
 HABIT\ APP\ -\ ORIGINAL\ DATA\ -\ AUTOMATICITY\ CHECKS/data/extracted_data/*.csv
 HABIT\ APP\ -\ ORIGINAL\ DATA\ -\ AUTOMATICITY\ CHECKS/data/extracted_data/*.json
+
+DEL_LATER/HABIT APP - ORIGINAL DATA - AUTOMATICITY CHECKS /data/extracted_data/filteredDF.csv
+DEL_LATER/HABIT APP - ORIGINAL DATA - AUTOMATICITY CHECKS /data/extracted_data/raw_data.json
+HABIT_POOL_et_al/DATABASES/RT_ALL_SITES.csv
+parsed_data_OLD_TEMP_DEL_LATER/db_all_data_backup/ALL_DATA_pilot_V2.json
+parsed_data_OLD_TEMP_DEL_LATER/db_all_data_backup/ALL_DATA_SAMPLE-2.json
